@@ -397,18 +397,6 @@ img{
     padding: 0 30px;
 }
 
-.recipe-info h2{
-    font-size: 25px;
-   text-transform: capitalize;
-    font-weight: bold;
-    color: rgb(223, 93, 7);
-}
-
-.recipe-info p{
-    font-size: 14px;
-    font-weight: lighter;
-    line-height: 1.75;
-}
 
 
 
