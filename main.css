@@ -330,8 +330,16 @@ section{
     }
     
     .recipe-info p{
-        font-size: 10px;
+        font-size: 11px;
         line-height: 1.75;
+    }
+
+
+    .pages-div span{
+        height: 30px;
+        width: 30px;
+        font-size: 15px;
+
     }
 
     .categories-grid{
