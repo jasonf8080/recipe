@@ -5,11 +5,8 @@ export const displayRecipe = (array, section) => {
 
     const recipes = array.map((recipe) => 
         `<a href="single-recipe.html" class="recipe-item ${recipe.category}" data-id="${recipe.title}">
-        <img class="recipe-img" src="${recipe.image}">
-        <div class="recipe-info">
-            <h2 class="recipe-title">${recipe.title}</h2>
-            <p>${recipe.desc}</p>
-        </div>
+        <div class="img-container"><img src="${recipe.image}" class="recipe-img"></div>
+        <p class="recipe-name">${recipe.title}</p>
        </a>`
     ).join('');
     console.log(recipes)
