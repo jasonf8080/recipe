@@ -334,6 +334,10 @@ section{
         line-height: 1.75;
     }
 
+    .categories-grid{
+        row-gap: 20px;
+    }
+
     .category-name{
         bottom: -12px;
         font-size: 16px;
