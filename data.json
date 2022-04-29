@@ -546,7 +546,7 @@
     {
         "category": "sandwiches",
         "image": "image 30.png",
-        "title":  "Pulled Pork Sandwich",
+        "title":  "Pork Sandwich",
         "desc":   "Slow cooked, shredded meat mixed with barbercue sauce, served on a brioche bun",
         "ingredients":  ["1 tablespoon smoked paprika","2 pounds boneless pork loin roast, cut into 1-inch cubes","1 ½ teaspoons firmly packed light brown sugar", "1 ½ cups barbeque sauce", "2 (12 count) packages Hawaiian bread rolls (such as King's®)"],
         "steps": ["Whisk smoked paprika, brown sugar, salt, and black pepper together in a large glass or ceramic bowl. Add pork and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 30 minutes.","Heat oil and cook pork in batches until browned, 5 to 7 minutes. Pour in barbeque sauce and water. Close and lock the lid; select Manual function and set timer for 60 minutes. Allow 10 to 15 minutes for pressure to build.", " Unlock and remove lid; transfer pork to a separate plate. Reselect Saute function and simmer sauce until thickened, about 10 minutes. Shred pork with 2 two forks; mix with sauce.", "Slice bread rolls in half and fill with pulled pork; cover with tops."],
@@ -592,8 +592,7 @@
         "title":  "Pork Tenderloin",
         "desc":   "Tender, juicy, thin cut of pork, crusted in Italian herbs",
        "ingredients":  ["2 tablespoons chili powder","2 (1 pound) pork tenderloins","¼ teaspoon dried thyme", "¼ teaspoon ground ginger"],
-        "steps": ["In a small bowl, mix together chili powder, salt, ginger, thyme, and black pepper. Rub spice mix into pork tenderloins. Place meat in a baking dish, cover, and refrigerator for 2 to 3 hours.","Brush oil onto grill grate, and arrange meat on grill. Cook for 30 minutes, or to desired doneness, turning to cook evenly."],
-        "trending": true
+        "steps": ["In a small bowl, mix together chili powder, salt, ginger, thyme, and black pepper. Rub spice mix into pork tenderloins. Place meat in a baking dish, cover, and refrigerator for 2 to 3 hours.","Brush oil onto grill grate, and arrange meat on grill. Cook for 30 minutes, or to desired doneness, turning to cook evenly."]
     },
 
 
@@ -720,6 +719,7 @@
         "title":  "Pretzel Bites",
         "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
         "ingredients":  [],
-        "steps": []
+        "steps": [],
+        "trending": true
     }
 ]

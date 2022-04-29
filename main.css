@@ -149,7 +149,6 @@ section{
     color: rgb(34, 24, 24);
     border-radius: 15px;
     box-shadow: 0px 4px 15px rgb(204, 204, 204);
-   /*background: rgb(49, 35, 35);*/
     cursor: pointer;
     transition: transform 0.5s, border 0.3s;
     background: rgb(255, 246, 234);
@@ -317,6 +316,10 @@ section{
         border: 3px solid rgb(255, 165, 47);
     }
 
+    section{
+        margin-bottom: 50px;
+    }
+
     main{
         max-width: 90%;
     }
@@ -334,6 +337,9 @@ section{
         line-height: 1.75;
     }
 
+    .pages-div{
+        margin-top: 25px;
+    }
 
     .pages-div span{
         height: 30px;
