@@ -322,7 +322,7 @@ section{
     }
 
     .recipe-item{
-        grid-template-columns: 120px auto !important;
+        grid-template-columns: 125px auto !important;
     }
 
     .recipe-info h2{
@@ -332,5 +332,11 @@ section{
     .recipe-info p{
         font-size: 10px;
         line-height: 1.75;
+    }
+
+    .category-name{
+        bottom: -12px;
+        font-size: 16px;
+        padding: 12px 0;
     }
 }
