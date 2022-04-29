@@ -45,15 +45,7 @@
         "steps": ["Whisk olive oil, lime juice, tequila, garlic powder, Cajun seasoning, seasoned salt, and black pepper in a bowl; pour into a resealable plastic bag. Add shrimp, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 1 to 4 hours.", "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Soak wooden skewers in a bowl of water for 30 minutes.", "Remove shrimp from the marinade, and shake off excess. Discard the remaining marinade. Thread shrimp on skewers, piercing once near the tail and once near the head.", "Arrange skewers on preheated grill; cook shrimp until they are bright pink on the outside and the meat is no longer transparent in the center, 6 to 8 minutes."]
     },
 
-    {
-        "category": "appetizers",
-        "image": "https://spicysouthernkitchen.com/wp-content/uploads/Fried-Jalapeno-Popper-Bites-9.jpg",
-        "title":  "Jalepeno Poppers",
-        "desc":   "Spicy jalapeños and cheese fried in a golden brown shell",
-        "ingredients":  ["12 ounces jalapeno peppers, seeded and halved", "1 (8 ounce) package shredded Cheddar cheese", "1 cup all-purpose flour", "1 cup dry bread crumbs", "2 quarts oil for frying", "1 cup milk"],
-        "steps": ["In a medium bowl, mix the cream cheese, Cheddar cheese and bacon bits. Spoon this mixture into the jalapeno pepper halve", "Put the milk and flour into two separate small bowls. Dip the stuffed jalapenos first into the milk then into the flour, making sure they are well coated with each. Allow the coated jalapenos to dry for about 10 minutes", "Dip the jalapenos in milk again and roll them through the breadcrumbs. Allow them to dry, then repeat to ensure the entire surface of the jalapeno is coated.", "In a medium skillet, heat the oil to 365 degrees F ( 180 degrees C). Deep fry the coated jalapenos 2 to 3 minutes each, until golden brown. Remove and let drain on a paper towel."]
-    },
-
+   
     {
         "category": "appetizers",
         "image": "https://www.dinneratthezoo.com/wp-content/uploads/2019/11/fried-calamari-67-500x500.jpg",
@@ -64,25 +56,7 @@
     },
 
 
-    {
-        "category": "appetizers",
-        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/stuffed-mushrooms-vertical-jpg-1525207616.jpg?crop=1.00xw:0.667xh;0,0.215xh&resize=480:*",
-        "title":  "Stuffed Mushrooms",
-        "desc":   "Mushrooms stuffed with shallots, garlic, walnuts, breadcrumbs, and chopped mushroom stems.",
-        "ingredients":  ["12 medium mushrooms", "2 tablespoons olive oil", "1/2 cup chopped red onion", "3 cloves garlic, chopped", "2 tablespoons grated Asiago cheese", "1 tablespoon ricotta cheese"],
-        "steps": ["Preheat the oven to 400 degrees F (200 degrees C). Grease a baking sheet.", "Remove stems from mushrooms. Chop stems and set aside. Brush caps with 1 tablespoon olive oil and place on the prepared baking sheet with the open sides up.", "Heat remaining 1 tablespoon oil in a skillet over medium heat. Add onion, garlic, and Italian seasoning; cook for 2 minutes. Add mushroom stems and cook until tender, about 5 minutes. Remove from the heat and transfer to a bowl.", "Add Asiago cheese and ricotta cheese to the onion-mushroom mixture and mix to combine. Season with salt and pepper. Fill each mushroom cap with a spoonful of the mixture.", "Bake in the preheated oven until mushrooms are tender and filling is bubbling slightly, 20 to 25 minutes."]
-    },
-
-    {
-        "category": "appetizers",
-        "image": "https://foodwithfeeling.com/wp-content/uploads/2021/08/truffle-fries-4-225x225.jpg",
-        "title":  "Truffle Fries",
-        "desc":   "Thin cut deep-fried potatoes topped with truffle oil, fresh herbs and spices, garlic, and cheese,",
-        "ingredients":  ["6 large red potatoes", "3 cups canola oil", "1/4 cup grated Parmesan cheese", "3 cloves garlic", "2 1/2 tablespoons truffle oil", "2 tablespoons sea salt, or more to taste"],
-        "steps": ["Cut potatoes to desired size, but not too thick.", "Place fries into a microwave-safe container and microwave for 4 minutes.", "Place oil into a frying pan and heat to 375 degrees F (190 degrees C).", "Place 1 to 2 handfuls of fries in the frying pan and fry until browned and soft, 4 to 5 minutes, turning and tossing frequently to cook evenly.", "Preheat the oven to 225 degrees F (110 degrees C).", "Drain fries in a bowl lined with a paper towel. Toss fries in the bowl to get rid of excess oil; remove paper towel.", "Combine Parmesan cheese, garlic, salt, and pepper in a bowl. Toss fries in the mixture until well mixed. Drizzle fries with truffle oil and toss again until well mixed.", "Bake in the preheated oven to allow truffle oil to settle and reheat fries, 5 to 7 minutes. Serve fries while hot."]
-    },
-
-
+   
     {
         "category": "appetizers",
         "image": "https://www.lemontreedwelling.com/wp-content/uploads/2020/10/air-fryer-onion-rings-featured-720x720.jpg",
@@ -130,7 +104,7 @@
     },
 
     {
-        "category": "salads",
+        "category": "soups",
         "image": "https://www.daringgourmet.com/wp-content/uploads/2020/10/Minestrone-12.jpg",
         "title":  "Minestrone Soup",
         "desc":   "Italian vegetable soup filled with pasta, beans, tomatoes, and veggies, seasoned with Italian herbs.",
@@ -139,7 +113,7 @@
     },
 
     {
-        "category": "salads",
+        "category": "soups",
         "image": "https://www.willcookforsmiles.com/wp-content/uploads/2020/01/pasta-e-fagioli-8-1-500x500.jpg",
         "title":  "Pasta Fagoli",
         "desc":   "Italian style soup with tender pasta, creamy beans, and delicious herbs in a rich and savory broth.",
@@ -149,7 +123,7 @@
 
 
     {
-        "category": "salads",
+        "category": "soups",
         "image": "https://s23209.pcdn.co/wp-content/uploads/2019/06/One-Pot-French-Onion-SoupIMG_9418-360x360.jpg",
         "title":  "French Onion Soup",
         "desc":   "French style soup prepared with beef stock, caramelized onions, topped with cheesy bread",
@@ -159,9 +133,9 @@
     
 
     {
-        "category": "salads",
-        "image": "image 3.png",
-        "title":  "Tortellinij Soup",
+        "category": "soups",
+        "image": "image 56.png",
+        "title":  "Tortellini Soup",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
         "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
         "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
@@ -172,26 +146,26 @@
         "image": "image 3.png",
         "title":  "Buttermilk Pancakes",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["2  cups all-purpose flour,", "2  teaspoons baking powder", "2 eggs", "1 ½ to 2  cups milk", "2  tablespoons melted and cooled butter"],
+        "steps": ["Heat a griddle or large skillet over medium-low heat. In a bowl, mix together dry ingredients. Beat eggs into 1 1/2 cups milk, then stir in 2 tablespoons melted cooled butter, if using it. Gently stir this mixture into dry ingredients, mixing only enough to moisten flour; don't worry about a few lumps. If batter seems thick, add a little more milk", "Place a teaspoon or 2 of butter or oil on griddle or skillet. When butter foam subsides or oil shimmers, ladle batter onto griddle or skillet, making pancakes of any size you like. Adjust heat as necessary; usually, first batch will require higher heat than subsequent batches. Flip pancakes after bubbles rise to surface and bottoms brown, after 2 to 4 minutes.", "Cook until second side is lightly browned. Serve, or hold on an ovenproof plate in a 200-degree oven for up to 15 minutes"]
     },
 
     {
-        "category": "breakfast",
+        "category": "snacks",
         "image": "image 4.png",
         "title":  "Blueberry Muffins",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["1 ½ cups all-purpose flour", "¾ cup white sugar", "2 teaspoons baking powder", "1 cup fresh blueberries"],
+        "steps": ["Preheat the oven to 400 degrees F (200 degrees C). Grease 8 muffin cups or line with muffin liners.", "Pour oil into a small liquid measuring cup. Add egg and enough milk to reach the 1-cup mark. Stir until combined. Pour into flour mixture and mix just until batter is combined. Fold in blueberries. Set batter aside.", "Spoon batter into the prepared muffin cups, filling right to the top. Sprinkle with crumb topping.", "Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean, 20 to 25 minutes"]
     },
 
     {
         "category": "breakfast",
-        "image": "image 5.png",
+        "image": "image 67.png",
         "title":  "Ham & Cheese Omelette",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["1 ¼ cups all-purpose flour", "1 cup milk", "4 large eggs", "Diced ham"],
+        "steps": ["Coat a crepe pan or nonstick skillet over medium heat with about 1 teaspoon of the melted butter. Ladle about 1/4 cup batter into the pan, swirling the pan to thinly coat the entire bottom. Cook until small brown spots appear on the bottom of the crepe, about 2 minutes.", "Loosen crepe carefully from the pan using a spatula and gently flip to brown the other side, 1 to 2 minutes more. Slide crepe onto a plate. Repeat with remaining batter, buttering the pan as needed and stacking crepes between pieces of parchment or waxed paper.", "Assemble crepes, one at a time, in the still-warm pan; spread some mustard over one half, cover mustard with some ham slices, and top with Gruyere cheese. Fold the other side over the filling, pressing down slightly, and heat briefly just until the cheese starts to melt. Fold crepe in half again. Each finished crepe should end up about 1/4 the size of the original."]
     },
 
     {
@@ -199,8 +173,8 @@
         "image": "image 6.png",
         "title":  "Waffles",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["1 tablespoon ground cinnamon", "2 cups all-purpose flour", "2 cups milk", "2 eggs"],
+        "steps": ["Whisk eggs together in a large bowl until fluffy. Mix in 2 cups milk, vegetable oil, and vanilla extract until combined.", "Combine 2 cups flour, sugar, cinnamon, nutmeg, baking powder, and salt in a separate bowl. Slowly pour flour mixture into egg mixture, stirring as you pour. Mix until few to no lumps remain, being careful not to overmix. Add more flour if batter is too thin, or more milk if batter is too sticky or thick.", "Ladle some of the batter onto the preheated waffle iron. Cook until waffle is golden brown and the iron stops steaming, 2 to 5 minutes. Repeat with remaining batter."]
     },
 
     {
@@ -208,35 +182,28 @@
         "image": "image 7.png",
         "title":  "French Toast",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["4 (1 inch thick) slices King's Hawaiian® Sweet Bread", "¼ teaspoon ground cinnamon", "4 large eggs", "2 tablespoons Maple syrup"],
+        "steps": ["In a shallow mixing bowl, whisk together the eggs, milk, vanilla and cinnamon.", "Quickly dip slices (do not soak) in egg mixture and cook until golden brown on both sides.", "Sprinkle with powdered sugar and serve with warm maple syrup."]
     },
 
     {
         "category": "breakfast",
-        "image": "image 8.png",
+        "image": "image 68.png",
         "title":  "Breakfast Burrito",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["2 pounds beef skirt steak, cut into thin strips", "1 red bell pepper, seeded and chopped", "2 cups shredded Mexican cheese blend", "4 (12 inch) flour tortillas", "2 cups frozen diced potatoes"],
+        "steps": ["Heat oil in a large, deep skillet over medium-high heat. Place beef strips in skillet and cook and stir until browned. Stir in bell pepper, onions, and jalapeno pepper.", "Melt 1 tablespoon butter in the same skillet. Add the eggs, stirring occasionally, until eggs are scrambled and set. Transfer the beef mixture back to skillet. Cook and stir until warmed through, about 2 minutes. Melt the remaining 2 tablespoons butter in a small dish in microwave", "Divide shredded cheese among tortillas; divide beef and veggie mixture and place on the cheese. Fold in sides of tortilla and roll up. Brush with melted butter and place folded side down in pan to brown; flip and brown on top side. Burrito should be warmed though."]
     },
 
-    {
-        "category": "breakfast",
-        "image": "image 9.png",
-        "title":  "Oatmeal",
-        "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
-    },
+   
 
     {
-        "category": "breakfast",
+        "category": "sandwiches",
         "image": "image 10.png",
         "title":  "Bacon Egg & Cheese",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["6 slices bacon", "4 eggs", "6 slices American cheese, preferably yellow", "2 kaiser rolls"],
+        "steps": ["Preheat two medium non-stick pans (or one large griddle) over medium-high heat. In one of the medium pans (or one side of the griddle) add bacon and cook, flipping once, until bacon is cooked to your desired consistency, 4 to 7 minutes. Transfer to a paper towel-lined plate.", "Add 1 tablespoon of butter to the other pan (or other side of the griddle) and let melt until butter is slightly foamy. Add egg and cook, stirring them slightly but trying to keep them in one undisturbed, thin layer, until they're set and starting to brown on the underside, 2 minutes.", "Season eggs with salt and pepper, then add 3 slices of cheese to one side of your eggs and let it begin to melt, 30 seconds. Fold your egg over your cheese until you have a shape that will fit in your roll."]
     },
 
     {
@@ -244,94 +211,73 @@
         "image": "chocpancakes.png",
         "title":  "Chocolate Chip Pancakes",
         "desc":   "Creamy soup with rich cheese tortellini, ground beef, tomatoes and vegetables, and flavorful herbs.",
-        "ingredients":  ["2 cans chicken broth, divided", "1 (20 ounce) package cheese tortellini", "1 small onion, chopped", "2 tablespoons Italian seasoning", "1 bunch fresh spinach, chopped", "2 tablespoons minced garlic"],
-        "steps": ["Pour 1 can broth into a small saucepan and add tortellini; bring to a boil. Cook tortellini until tender yet firm to the bite, about 5 minutes.", "Heat oil in a large stockpot over medium heat; cook and stir onion, garlic, and Italian seasoning. Add tortellini-broth mixture, remaining can of broth, and spinach; cover stockpot and simmer until flavors blend, about 30 minutes"]
+        "ingredients":  ["½ cup miniature chocolate chips, or more to taste", "1 large egg", "1 cup all-purpose flour", "¾ cup milk", "1 teaspoon baking powder"],
+        "steps": ["Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl.", "Whisk egg, butter, and vanilla extract into soured milk until well combined. Pour flour mixture into the wet ingredients and whisk until just combined. Fold in chocolate chips. Batter will be thick. Allow batter to rest for 5 minutes.", "Heat a large skillet over medium-low heat, and coat with cooking spray.", "Pour about ¼ cup of batter for each pancake onto the skillet. Cook until bubbles appear on the surface, 2 to 4 minutes. Flip pancake with a spatula, and cook until browned on the other side, 2 to 3 more minutes. Repeat with remaining batter. Serve immediately."]
     },
 
     {
         "category": "entrees",
         "image": "https://images.themodernproper.com/billowy-turkey/production/posts/2021/Chicken-Parmesan-14.jpg?w=1200&h=1200&q=82&fm=jpg&fit=crop&fp-x=0.5&fp-y=0.5&dm=1618755606&s=cb9a4e64a5cd5948c2156f53ca5312ed",
         "title":  "Chicken Parmagian",
-        "desc":   "Breaded chicken breast covered in tomato sauce and mozzarella, parmesan, or provolone cheese"
+        "desc":   "Breaded chicken breast covered in tomato sauce and mozzarella, parmesan, or provolone cheese",
+        "ingredients":  ["2 large skinless, boneless chicken breast halves", "½ cup ricotta cheese", "2 tablespoons grated Parmigiano-Reggiano cheese for topping", "¾ cup dry bread crumbs", "1 egg beaten"],
+        "steps": ["Gently pound chicken breasts between 2 layers of plastic until each breast is evenly thick. Place breasts on a plate and season 1 side with kosher salt and black pepper. Sprinkle with flour; press flour to coat the entire surface and help it adhere. Turn and repeat on second side with salt, pepper, and flour.", "Brush excess flour from plate; place the chicken breasts back on the plate. Pour beaten egg over the breasts and coat each side. Cover bottom of a second plate with half the bread crumbs. Transfer chicken to the bread crumbs. Push crumbs up sides of chicken", "Heat 1/2 inch olive oil in a skillet over medium-high heat. Cook chicken until crispy and golden, 2 to 3 minutes per side. Transfer to prepared baking sheet.", "Bake on center rack of preheated oven until cheese is melted and chicken is no longer pink in the center and the juices run clear, 10 to 12 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).", "Serve with marinara"]
     },
 
-    {
-        "category": "entrees",
-        "image": "https://www.yellowblissroad.com/wp-content/uploads/2019/07/Shrimp-Scampi-SQUARE.jpg",
-        "title":  "Shrimp Scampi",
-        "desc":   "Shrimp sauteed perfection and tossed in a garlic butter white wine sauce served over linguine noodles."
-    },
 
     {
         "category": "entrees",
         "image": "https://keytomylime.com/wp-content/uploads/2021/07/Best-Creamy-Cajun-Chicken-Pasta-Recipe-735x735.jpg",
         "title":  "Cajun Chicken Pasta",
-        "desc":   "Chicken dredged in cajun spices, sauteed with bell peppers, topped with basil-cream sauce over linguine."
+        "desc":   "Chicken dredged in cajun spices, sauteed with bell peppers, topped with basil-cream sauce over linguine.",
+        "ingredients":  ["4 ounces linguine pasta", "2 skinless, boneless chicken breast halves", "2 teaspoons Cajun seasoning", "1 cup heavy cream", "¼ cup grated Parmesan cheese"],
+        "steps": ["Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.", "Place the chicken and the Cajun seasoning in a plastic bag. Shake to coat. In a large skillet over medium heat, saute the chicken in butter or margarine until almost tender (5 to 7 minutes).", "Add the cream, basil, lemon pepper, salt, garlic powder and ground black pepper. Heat through. Add the cooked linguine, toss and heat through. Sprinkle with grated Parmesan cheese and serve."]
     },
 
     {
         "category": "entrees",
         "image": "https://www.jocooks.com/wp-content/uploads/2020/07/skillet-steak-1-7-500x500.jpg",
         "title":  "Wood Fired Steak",
-        "desc":   "Tender, flavorful, juicy, and steak cooked to perfection, topped in a peppercorn sauce"
+        "desc":   "Tender, flavorful, juicy, and steak cooked to perfection, topped in a peppercorn sauce",
+        "ingredients":  ["4 (1/2 pound) rib-eye steaks, or steak of choice", "2 tablespoons sea salt", "2 tablespoons lemon pepper", "2 (12 fluid ounce) cans or bottles beer of choice"],
+        "steps": ["Place the steaks in a large, shallow container with a lid. Season each side of the steaks with the salt and lemon pepper. Gently pour the beer over the steaks (making sure the seasoning doesn't wash off). Cover, and refrigerate for 1 to 2 hours.", "Lightly oil grill grate. Place steaks on grill, and discard beer marinade. Cook for 5 minutes per side, or to desired doneness."]
     },
 
     {
         "category": "entrees",
         "image": "https://www.brit.co/media-library/burger-recipes.jpg?id=21629003&width=600&quality=90",
         "title":  "Classic Burger",
-        "desc":   "Juicy all-beef burger classic with lettuce, tomato, onion and pickles on a Brioche bun."
+        "desc":   "Juicy all-beef burger classic with lettuce, tomato, onion and pickles on a Brioche bun.",
+        "ingredients":  ["2 pounds extra-lean ground beef", "4 slices Swiss cheese (Optional)", "4 hamburger buns", "1 tomato slice", "1/4 cup diced lettuce", "1 scoop honey mustard"],
+        "steps": ["Mix the ground beef, onion powder, honey mustard, garlic powder, crushed red pepper, salt, and brown sugar in a large bowl. Shape into 4 patties", "Heat the olive oil in a large skillet over medium heat. Cook the burgers, turning occasionally, to desired temperature, 15 to 20 minutes for well done. Top each patty with a slice of Swiss cheese shortly before removing from the skillet; serve on hamburger buns."]
     },
 
     {
         "category": "entrees",
-        "image": "https://cafedelites.com/wp-content/uploads/2017/03/Best-Crispy-Lemon-Garlic-Herb-Salmon-IMAGES-19-500x500.jpg",
-        "title":  "Salmon Filet",
-        "desc":   "Grilled salmon fillets with lemon pepper, garlic powder, and salt."
-    },
-
-    {
-        "category": "entrees",
-        "image": "https://static.onecms.io/wp-content/uploads/sites/44/2019/08/26231103/5565807.jpg",
-        "title":  "Maryland Crab Cakes",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard"
-    },
-
-    {
-        "category": "entrees",
-        "image": "https://www.verywellfit.com/thmb/zZl_RzLW_D1gpMi-ndGBpX8QM8U=/1414x1414/smart/filters:no_upscale()/chicken-marsala-962194078-04aca06b8b2b48588e40c8b57210c294.jpg",
-        "title":  "Chicken Marsala",
-        "desc":   "Golden pan-fried chicken cutlets and mushrooms in a rich Marsala wine sauce."
+        "image": "Image 76.png",
+        "title":  "Chicken Quesidillas",
+        "desc":   "Golden pan-fried chicken cutlets and mushrooms in a rich Marsala wine sauce.",
+      "ingredients":  ["2 skinless, boneless chicken breast halves - cut into strips", "1 onion, sliced into rings", "½ cup shredded sharp Cheddar cheese", "½ cup shredded Monterey Jack cheese", "8 (10 inch) flour tortillas"],
+        "steps": ["In a large, deep skillet, heat 1 tablespoon oil over medium high heat. Slowly cook and stir onion until translucent. Mix in honey. Stir until onion is golden brown, about 5 minutes. Remove from skillet and set aside", "Place remaining oil and chicken in the skillet over medium high heat. Cook until chicken is no longer pink. Stir in barbeque sauce and evenly coat chicken.", "Layer 4 tortillas individually with chicken, onions, Cheddar cheese and Monterey Jack cheese. Top with remaining tortillas.", "One or two at a time, place layered tortillas on a large baking sheet. Bake uncovered in the preheated oven 20 minutes, or until cheese is melted. Do not let tortillas become too crisp. Remove from heat. Cut into quarters to serve."]
     },
 
     {
         "category": "entrees",
         "image": "http://cdn.shopify.com/s/files/1/0577/3616/7591/products/chicken-alfredo-8-1200.jpg?v=1625717688",
         "title":  "Chicken Alfredo",
-        "desc":   "Chicken breast served over a bed of tender fettuccine pasta, topped with creamy Alfredo sauce"
+        "desc":   "Chicken breast served over a bed of tender fettuccine pasta, topped with creamy Alfredo sauce",
+       "ingredients":  ["4 (15 ounce) jars Alfredo sauce", "2 pounds skinless, boneless chicken breasts, cut into chunks", "½ tablespoon cayenne pepper, or to taste", "1 ½ cups shredded Parmesan cheese", "2 (16 ounce) packages thin spaghetti", "2 cups chopped broccoli (Optional)"],
+        "steps": ["Bring a large pot of lightly salted water to a boil. Cook thin spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes.", "Meanwhile, add Alfredo sauce to the chicken along with Italian seasoning, garlic powder, onion, basil, salt, black pepper, onion powder, and cayenne. Bring to a slight boil; stir in Parmesan cheese. Cook mixture until cheese is melted and you are able to lift a spoon out of the sauce without cheese hanging onto it, 3 to 5 minutes.", "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add broccoli, cover, and steam until tender, 2 to 6 minutes. Add broccoli to sauce."]
     },
 
-   
-
-    {
-        "category": "entrees",
-        "image": "https://neighborfoodblog.com/wp-content/uploads/2019/09/stuffed-pork-tenderloin-4-720x720.jpg",
-        "title":  "Pork Tenderloin",
-        "desc":   "Tender, juicy, thin cut of pork, crusted in Italian herbs"
-    },
-
-    {
-        "category": "entrees",
-        "image": "https://thebusybaker.ca/wp-content/uploads/2021/02/easy-eggplant-parmesan-fb-ig-5-scaled.jpg",
-        "title":  "Eggplant Parmesan",
-        "desc":   "Tender eggplant breaded in crispy breadcrumbs, topped with marinara and parmesan cheese"
-    },
 
     {
         "category": "entrees",
         "image": "https://www.thecountrycook.net/wp-content/uploads/2020/02/EASY-BAKED-ZITI-thumbnail.jpg",
         "title":  "Baked Ziti",
-        "desc":   "Tomato-coated pasta is then combined with cheese, with a mixture of ricotta, mozzarella, and parmesan"
+        "desc":   "Tomato-coated pasta is then combined with cheese, with a mixture of ricotta, mozzarella, and parmesan",
+        "ingredients":  ["1 pound dry ziti pasta", "1 ½ (26 ounce) jars spaghetti sauce", "1 (6 ounce) package provolone cheese, sliced", "1 (6 ounce) package mozzarella cheese, shredded"],
+        "steps": ["Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente; drain.", "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish. In the prepared dish, layer 1/2 of the cooked pasta, provolone cheese, sour cream, cottage cheese, and a little less than 1/2 of the meat mixture. Then layer the rest of the pasta, mozzarella cheese, remaining meat mixture, and Parmesan cheese.", "Bake in the preheated oven for 20 to 30 minutes, or until heated through and cheeses are melted."]
     },
 
 
@@ -339,36 +285,29 @@
         "category": "desserts",
         "image": "https://www.recipetineats.com/wp-content/uploads/2021/02/Chocolate-Lava-Cake_7-SQ.jpg",
         "title":  "Chocolate Lava Cake",
-        "desc":   "Chocolate cake with a molten chocolate center, topped with vanilla ice cream in a chocolate shell"
+        "desc":   "Chocolate cake with a molten chocolate center, topped with vanilla ice cream in a chocolate shell",
+        "ingredients":  ["3 ½ ounces chopped dark chocolate", "2 eggs", "4 teaspoons unsweetened cocoa powder", "3 tablespoons flour", "5 tablespoons butter"],
+        "steps": ["Melt chocolate and butter in a microwave-safe bowl in 30-second intervals, stirring after each melting, 1 to 3 minutes.", "Stir melted chocolate mixture into egg and sugar mixture until combined.", "Sift cocoa powder into the mixture; stir to combine.", "Sift flour and salt into the mixture; stir to combine into a batter.", "Bake in the preheated over for 15-18 minutes. Set aside to cool for 15 minutes."]
     },
 
     {
         "category": "desserts",
         "image": "https://www.livewellbakeoften.com/wp-content/uploads/2021/01/Tiramisu-8s.jpg",
         "title":  "Tiramisu",
-        "desc":   "Creamy dessert of espresso-soaked ladyfingers surrounded by lightly sweetened whipped cream and a rich mascarpone"
+        "desc":   "Creamy dessert of espresso-soaked ladyfingers surrounded by lightly sweetened whipped cream and a rich mascarpone",
+        "ingredients":  ["1 pound mascarpone cheese", "¼ cup heavy cream", "1 ¼ cups strong brewed coffee, cold", "25 ladyfingers", "1 tablespoon unsweetened cocoa powder", "6 egg whites, stiffly beaten"],
+        "steps": ["In a medium bowl beat together the egg yolks and 1/3 cup of sugar. Using a wooden spoon stir in mascarpone cheese, beaten egg whites, cream and kirschwasser; stir until smooth. Set aside.", "Dissolve remaining 2/3 cup sugar in coffee. Quickly, to avoid complete saturation, dip ends of ladyfingers in coffee mixture. Place ladyfingers in a single layer in a 9 x 13 inch glass baking dish. Spread a layer of cheese mixture over the ladyfingers; repeat layers, ending with cheese mixture.", "Cover and refrigerate for several hours. Sprinkle with cocoa just before serving."]
     },
 
-    {
-        "category": "desserts",
-        "image": "https://www.culinaryhill.com/wp-content/uploads/2018/09/Easy-Chocolate-Mousse-SQ-03-Culinary-Hill-e1580268096256-500x500.png",
-        "title":  "Chocolate Mousse",
-        "desc":   "Chocolate Mousse served decadently creamy, light and billowy, and indulgently chocolaty. "
-    },
+
 
     {
-        "category": "desserts",
+        "category": "snacks",
         "image": "https://www.momontimeout.com/wp-content/uploads/2020/09/stack-of-chewy-chocolate-chip-cookies-on-dark-wood-board-square.jpg",
         "title":  "Chocolate Chip Cookies",
-        "desc":   "Semisweet chocolate chips mixed in a thick, chewy cookie––soft on the inside and crunchy on the outside"
-    },
-
-
-    {
-        "category": "desserts",
-        "image": "https://www.looneybeanbishop.com/uploads/1/3/1/2/131223678/s807527588167116925_p101_i1_w1920.jpeg",
-        "title":  "Almond Bear Claw",
-        "desc":   "Tender, rich dough and filled with a luscious and sweet almond filling."
+        "desc":   "Semisweet chocolate chips mixed in a thick, chewy cookie––soft on the inside and crunchy on the outside",
+ "ingredients":  ["2 ¼ cups all-purpose flour", "1 cup white sugar", "2 eggs", "2 cups semisweet chocolate chips", "1 cup butter, softened"],
+        "steps": ["Preheat the oven to 375 degrees F (190 degrees C). Stir together the flour, baking soda, salt and instant pudding powder; set aside.", "In a medium bowl, cream together the butter, white sugar and brown sugar until smooth. Blend in the eggs and vanilla. Gradually mix in the dry ingredients until just blended. Stir in the chocolate chips by hand using a wooden spoon. Scoop cookies using an ice cream scoop or by heaping tablespoons. Place cookies at least 2 inches apart onto ungreased cookie sheets.", "Bake for 8 to 10 minutes in the preheated oven, until lightly golden. Cool on baking sheets for a few minutes before removing to wire racks to cool completely."]
     },
 
 
@@ -377,85 +316,86 @@
         "category": "desserts",
         "image": "https://www.spoonfulofflavor.com/wp-content/uploads/2021/03/Homemade-Eclair-500x500.jpg",
         "title":  "Eclairs",
-        "desc":   "French pastries consisting of long tubes of pâte à choux, filled with pastry cream and coated in a thin layer of icing."
+        "desc":   "French pastries consisting of long tubes of pâte à choux, filled with pastry cream and coated in a thin layer of icing.",
+ "ingredients":  ["1 (5 ounce) package instant vanilla pudding mix", "2 ½ cups cold milk", "1 cup heavy cream", "2 (1 ounce) squares semisweet chocolate", "¼ cup confectioners' sugar", "1 cup flour"],
+        "steps": ["In a medium saucepan, combine 1/2 cup butter and 1 cup water. Bring to a boil, stirring until butter melts completely. Reduce heat to low, and add flour and salt. Stir vigorously until mixture leaves the sides of the pan and begins to form a stiff ball. Remove from heat. Add eggs, one at a time, beating well to incorporate completely after each addition. With a spoon or a pastry bag fitted with a No. 10, or larger, tip, spoon or pipe dough onto cookie sheet in 1 1/2 x 4 inch strips.", "Bake 15 minutes in the preheated oven, then reduce heat to 325 degrees F (165 degrees C) and bake 20 minutes more, until hollow sounding when lightly tapped on the bottom. Cool completely on a wire rack.", "For the filling, combine pudding mix and milk in medium bowl according to package directions. In a separate bowl, beat the cream with an electric mixer until soft peaks form. Beat in 1/4 cup confectioners' sugar and 1 teaspoon vanilla. Fold whipped cream into pudding. Cut tops off of cooled pastry shells with a sharp knife. Fill shells with pudding mixture and replace tops.", "For the icing, melt the chocolate and 2 tablespoons butter in a medium saucepan over low heat. Stir in 1 cup confectioners' sugar and 1 teaspoon vanilla. Stir in hot water, one tablespoon at a time, until icing is smooth and has reached desired consistency. Remove from heat, cool slightly, and drizzle over filled eclairs. Refrigerate until serving."]
     },
 
     {
         "category": "desserts",
         "image": "https://amandascookin.com/wp-content/uploads/2021/07/Cream-Puffs-SQ.jpg",
         "title":  "Cream Puffs",
-        "desc":   "Crisp choux pastry that is split in half, filled with a loads of whipped cream, and dusted with powdered sugar."
+        "desc":   "Crisp choux pastry that is split in half, filled with a loads of whipped cream, and dusted with powdered sugar.",
+ "ingredients":  ["2 cups all-purpose flour", "10 large eggs", "6 cups milk", "12 fluid ounces sweetened condensed milk", "1 ½ cups white sugar", "3 large eggs"],
+        "steps": ["Combine water, butter, and salt for pastries in a saucepan on the stove; bring to a brisk boil. Add flour, then turn off the heat and stir vigorously until mixture is smooth.", "Pour mixture into a large mixing bowl. Beat in eggs, one at a time, until mixture is thick and shiny. Spoon 12 dollops of the mixture onto each of the prepared baking sheets, about 2 inches apart.", "Bake in the preheated oven until light golden brown, about 30 minutes, swapping racks halfway through. Remove to cooling racks and let cool, about 30 minutes", "Meanwhile, combine milk, condensed milk, sugar, eggs, and salt for filling in a pot over medium-high heat. When the mixture starts to steam, reduce heat to medium.", "Turn off the heat, add vanilla, and continue stirring for about 8 minutes. Let cool, about 10 minutes; it will thicken as it cools.", "Add custard filling"]
     },
 
     {
         "category": "desserts",
         "image": "https://img.buzzfeed.com/video-api-prod/assets/fafe8090b4f3434f80c33b6e4ce40e24/BFV21539_BestFudgyBrownies-ThumbB1080.jpg",
         "title":  "Fudge Brownies",
-        "desc":   "Super fudgy centre, chewy or gooey in all the right places, studded with melted chunks of chocolate."
+        "desc":   "Super fudgy centre, chewy or gooey in all the right places, studded with melted chunks of chocolate.",
+ "ingredients":  ["1 ½ cups semisweet chocolate chips", "½ cup white sugar", "2 tablespoons butter", "2 eggs", "⅔ cup all-purpose flour"],
+        "steps": ["Preheat the oven to 325 degrees F (165 degrees C). Grease an 8x8 inch square pan.", "In a medium saucepan, combine the sugar, butter and water. Cook over medium heat until boiling. Remove from heat and stir in chocolate chips until melted and smooth. Mix in the eggs and vanilla. Combine the flour, baking soda and salt; stir into the chocolate mixture. Spread evenly into the prepared pan.", "Bake for 25 to 30 minutes in the preheated oven, until brownies set up. Do not overbake! Cool in pan and cut into squares."]
     },
 
     {
         "category": "desserts",
         "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-11-Rainbow-Cookies%2Fxtest__rainbow_cookies-2",
         "title":  "Rainbow Cookies",
-        "desc":   "Colorful layers of almond cake sandwiched with raspberry jam and coated in chocolate"
+        "desc":   "Colorful layers of almond cake sandwiched with raspberry jam and coated in chocolate",
+ "ingredients":  ["8 ounces almond paste", "1 cup butter, softened", "¼ cup seedless red raspberry jam", "6 drops red food coloring", "6 drops green food coloring", "1 cup semisweet chocolate chips, melted"],
+        "steps": []
     },
 
-    {
-        "category": "desserts",
-        "image": "https://carameltintedlife.com/wp-content/uploads/2021/03/Puff-Pastry-Cinnamon-Rolls.jpg",
-        "title":  "Cinnamon Roll",
-        "desc":   "Sweet baked cinnanon buns filled with a cinnamon-sugar filling topped with a sugar glaze"
-    },
+    
 
 
     {
         "category": "seafood",
         "image": "https://www.yellowblissroad.com/wp-content/uploads/2019/07/Shrimp-Scampi-SQUARE.jpg",
         "title":  "Shrimp Scampi",
-        "desc":   "Shrimp sauteed perfection and tossed in a garlic butter white wine sauce served over linguine noodles."
+        "desc":   "Shrimp sauteed perfection and tossed in a garlic butter white wine sauce served over linguine noodles.",
+ "ingredients":  ["24 large shrimp in shell (21 to 25 per lb), peeled and deveined", "2 tablespoons olive oil", "½ cup Chardonnay wine", "1 tablespoon lemon juice", "½ cup butter", "2 tablespoons chopped fresh parsley", "1 cup chicken broth"],
+        "steps": ["Place the flour on a rimmed plate, and season with salt and pepper. Toss the shrimp in the flour, and shake off excess. Heat the oil in a large skillet over medium heat; cook the shrimp until pink, about 2 minutes per side. Remove shrimp from skillet, and reserve.", " Pour in the wine, 1/2 cup chicken broth, and the lemon juice. Simmer for about 5 minutes, or until reduced to about 3/4 cup. Stir in the remaining 1/2 cup of chicken broth and the cream, and simmer until sauce is reduced and thickened slightly, approximately 10 minutes more. Add the butter, and stir until melted.", "Return the shrimp to the skillet; simmer until heated through, about 3 minutes. Sprinkle with the parsley and Romano cheese before serving."]
     },
 
     {
         "category": "seafood",
         "image": "https://cafedelites.com/wp-content/uploads/2017/03/Best-Crispy-Lemon-Garlic-Herb-Salmon-IMAGES-19-500x500.jpg",
         "title":  "Salmon Filet",
-        "desc":   "Grilled salmon fillets with lemon pepper, garlic powder, and salt."
+        "desc":   "Grilled salmon fillets with lemon pepper, garlic powder, and salt.",
+        "ingredients":  ["6 (3 ounce) fillets salmon fillets, thawed", "2 tablespoons dark brown sugar", "2 tablespoons apple cider vinegar", "2 tablespoons olive oil", "1 teaspoon Dijon mustard"],
+        "steps": ["Combine brown sugar, apple cider vinegar, olive oil, Dijon mustard, and pepper in a bowl for the marinade", "Place salmon fillets into a shallow glass dish and pour 1/2 of the marinade over the fish. Reserve remaining marinade. Cover and refrigerate for 1 hour.", "Preheat an outdoor grill for medium heat and lightly oil the grate. Discard marinade from the glass dish.", "Grill salmon, brushing with reserved marinade several times, until it flakes easily with a fork, 4 to 6 minutes."]
     },
 
     {
         "category": "seafood",
         "image": "https://static.onecms.io/wp-content/uploads/sites/44/2019/08/26231103/5565807.jpg",
         "title":  "Maryland Crab Cakes",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard"
+        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 pound crabmeat, shredded", "1 ½ tablespoons dry bread crumbs", "2 teaspoons chopped fresh parsley", "1 ½ tablespoons mayonnaise", "½ teaspoon ground dry mustard"],
+        "steps": ["Mix together crabmeat, bread crumbs, parsley, salt and pepper.", "Beat together egg, mayonnaise, hot sauce and mustard. Combine with other ingredients and mix well. Form into patties and place on a lightly greased broiler pan or baking sheet.", "Broil for 10 to 15 minutes, until lightly brown."]
     },
 
     {
         "category": "seafood",
         "image": "image 11.png",
         "title":  "Lobster Rolls",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard"
+        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["2 (8 ounce) cooked Northern (cold-water) lobster tails", "2 ribs celery, finely chopped", "2 tablespoons low-calorie mayonnaise", "1 pinch seafood seasoning (such as Old Bay®)", "4 hot dog rolls"],
+        "steps": ["Chop lobster into bite-sized chunks and place in a large bowl. Add celery, mayonnaise, salt, black pepper, paprika, and seafood seasoning and mix together.", "Lightly toast hot dog rolls and butter the insides. Spoon lobster salad into the rolls and serve."]
     },
  
-    {
-        "category": "seafood",
-        "image": "image 12.png",
-        "title":  "Seafood Paella",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard"
-    },
 
-    {
-        "category": "seafood",
-        "image": "image 13.png",
-        "title":  "Fish Tacos",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard"
-    },
 
     {
         "category": "seafood",
         "image": "image 14.png",
         "title":  "King Crab Legs",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard"
+        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["3 ½ pounds Alaskan king crab legs with shell", "6 ears fresh corn", "⅛ teaspoon crushed red pepper flakes", "1 teaspoon Old Bay Seasoning TM, or to taste", "1 ½ cups butter"],
+        "steps": ["In a very large stock pot, bring a large amount of water to boil. Place crab legs and corn in the pot of boiling water. Boil until the corn is tender, and the crab legs are opaque and flaky. The crab may finish cooking before the corn, check the corn and crab every 5 minutes to see if they are finished cooking. When finished cooking, drain well. Cut a slit into each of the crab leg shells to make it easier for your guests to get to the meat.", "In a large saucepan, melt butter or margarine, garlic, red pepper, and Old Bay ™ seasoning. Stir in the crab and corn, and saute them for 5 to 10 minutes."]
     },
 
     {
@@ -463,6 +403,8 @@
         "image": "image 41.png",
         "title":  "Swedish Meatballs",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 (16 ounce) package frozen meatballs", "1 (10.5 ounce) can condensed beef and mushroom soup", "½ cup sour cream"],
+        "steps": ["Combine frozen meatballs, condensed soup, and sour cream in a slow cooker.", "Cover and cook on High until heated through, about 2 hours."],
         "trending": true
     },
 
@@ -472,14 +414,18 @@
         "image": "image 33.png",
         "title":  "BBQ Chicken Flatbread",
         "desc":   "Flatbread smothered with barbecue sauce and loaded with chicken, cheese, cilantro and red onion.",
+        "ingredients":  ["4 Greek Pita Flatbreads", "1 cup barbecue sauce", "2 cups shredded Mozzarella cheese", "8  ounces cooked, shredded chicken breast", "1/2 cup chopped red onion"],
+        "steps": ["Place two flatbreads on each cookie sheet. Spread about 3 Tablespoons of barbecue sauce on each flatbread. Top sauce with 1/4 cup of Mozzarella cheese.", "Sprinkle 1/4 cup of cooked shredded chicken over cheese. Top chicken with another 1/4 cup cheese. Sprinkle desired amount of red onion evenly over the top", "Place flatbread pizzas in prepared oven and bake for 12 to 14 minutes OR until cheese is melted and bubbly. Carefully remove from oven. Let pizzas stand a few minutes before serving. Top each pizza with desired amount of cilantro and enjoy!"],
         "trending": true
     },
 
     {
-        "category": "desserts",
+        "category": "snacks",
         "image": "image 34.png",
         "title":  "Apple Crisp",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["2 cups all-purpose flour", "2 cups rolled oats", "1 teaspoon ground cinnamon", "1 ½ cups packed brown sugar", "1 ½ cups butter", "2 quarts peeled, cored and sliced apples"],
+        "steps": ["2 quarts peeled, cored and sliced apples", "Cover crumb mixture with apple slices, then sprinkle apple slices with remaining crumb mixture.", "Bake at 350 degrees F (175 degrees C) for 45 to 50 minutes or until apples are tender."],
         "trending": true
     },
 
@@ -488,6 +434,8 @@
         "image": "image 35.png",
         "title":  "Fresh Guacamole",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 avocado - peeled, pitted, and diced", "1 roma (plum) tomato, diced", "½ red onion, diced", "1 serrano chile pepper, seeded and minced", "1 tablespoon fresh lime juice"],
+        "steps": ["Combine the avocado, tomato, onion, serrano chile, salt, pepper, garlic powder, Worcestershire sauce, hot sauce, and cilantro leaves in a bowl and mix. Pour lime juice over the top of the guacamole. Serve immediately. To store for later use, place avocado pit in the bowl with the guacamole and then cover with plastic wrap, pressing the wrap down to the surface of the guacamole and store in refrigerator."],
         "trending": true
     },
 
@@ -496,6 +444,8 @@
         "image": "image 36.png",
         "title":  "Coconut Shrimp",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 pound large shrimp, peeled and deveined", "⅓ cup cornstarch", "¾ teaspoon cayenne pepper", "2 cups flaked sweetened coconut", "3 egg whites"],
+        "steps": ["Rinse and dry shrimp with paper towels. Mix cornstarch, salt, and cayenne pepper in a shallow bow; pour coconut flakes in a separate shallow bowl. Working with one shrimp at a time, dredge it in the cornstarch mixture, then dip it in the egg white, and roll it in the coconut, making sure to coat the shrimp well. Place on the prepared baking sheet, and repeat with the remaining shrimp.", "Bake the shrimp until they are bright pink on the outside and the meat is no longer transparent in the center and the coconut is browned, 15 to 20 minutes, flipping the shrimp halfway through."],
         "trending": true
     },
 
@@ -504,65 +454,18 @@
         "image": "image 37.png",
         "title":  "Marble Cake",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["2 cups all-purpose flour", "½ cup butter, softened", "2 tablespoons unsweetened cocoa powder", "1 cup milk", "2 large eggs"],
+        "steps": ["Place flour, baking powder, salt, sugar, butter or margarine, eggs, vanilla, and milk into mixing bowl. Beat slowly to moisten, then beat with an electric mixer at medium speed for about 2 minutes until smooth. Reserve 3/4 cup batter; pour the remainder into pan.", "Stir cocoa into the 3/4 cup reserved batter. Drop by spoonfuls over top of white batter. Using a knife, swirl the cocoa batter into the white batter to incorporate it in a marble effect.", "Bake in preheated oven for 30 to 35 minutes, until an inserted wooden pick comes out clean."],
         "trending": true
     },
-
-    {
-        "category": "snacks",
-        "image": "image 26.png",
-        "title":  "Banana Bread",
-        "desc":   "Moist, dense bread has pleasingly mild banana flavor, enhanced with a light touch of spice",
-        "trending": true
-    },
-
-    {
-        "category": "entrees",
-        "image": "image 27.png",
-        "title":  "Stuffed Peppers",
-        "desc":   "Green bell peppers stuffed with ground beef, rice, and topped with tomato sauce and cheesy goodness",
-        "trending": true
-    },
-
-
-    {
-        "category": "sandwiches",
-        "image": "image 30.png",
-        "title":  "Pulled Pork Sandwich",
-        "desc":   "Slow cooked, shredded meat mixed with barbercue sauce, served on a brioche bun",
-        "trending": true
-    },
-
-    {
-        "category": "desserts",
-        "image": "image 31.png",
-        "title":  "New York Cheesecake",
-        "desc":   "A beautifully flavored, citrus-infused New York-style cheesecake with a graham cracker crust",
-        "trending": true
-    },
-
-    {
-        "category": "entrees",
-        "image": "image 44.png",
-        "title":  "Baked Mac & Cheese",
-        "desc":   " A classic macaroni and cheese recipe featuring a special blend of cheeses",
-        "trending": true
-    },
-
-    
-    {
-        "category": "appetizers",
-        "image": "image 45.png",
-        "title":  "Sausage Calzone",
-        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
-        "trending": true
-    },
-
 
     {
         "category": "entrees",
         "image": "image 38.png",
         "title":  "Mushroom Risotto",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 teaspoon minced celery", "1 ½ cups sliced fresh mushrooms", "¼ cup heavy cream", "5 cups vegetable stock", "1 cup rice", "1 teaspoon minced fresh parsley", "3 small onions, finely chopped"],
+        "steps": ["Heat olive oil in a large skillet over medium-high heat. Saute the onion and garlic in the olive oil until onion is tender and garlic is lightly browned. Remove garlic, and stir in the parsley, celery, salt, and pepper. Cook until celery is tender, then add the mushrooms. Reduce heat to low, and continue cooking until the mushrooms are soft.", "Pour the milk and cream into the skillet, and stir in the rice. Heat to a simmer. Stir the vegetable stock into the rice one cup at a time, until it is absorbed.", "When the rice has finished cooking, stir in the butter and Parmesan cheese, and remove from heat. Serve hot."],
         "trending": true
     },
 
@@ -571,7 +474,9 @@
         "category": "drinks",
         "image": "image 39.png",
         "title":  "Tropical Smoothie",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "desc":   "This is a easy but healthy smoothie that anyone can make. A little tang and a dash of sweet combine to make an excellent smoothie!",
+        "ingredients":  ["½ cup 2% milk", "½ mango - peeled, seeded, and cut into chunks", "½ fresh peach - peeled, pitted, and sliced", "¼ cup fresh pineapple chunks", "2 strawberries"],
+        "steps": ["Blend milk, orange juice, mango, peach, pineapple, and strawberries together in a blender until smooth."],
         "trending": true
     },
 
@@ -580,6 +485,8 @@
         "image": "image 42.png",
         "title":  "Beef Enchiladas",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 lb ground beef (at least 80% lean)", "2 cans (10 oz each) Old El Paso™ red enchilada sauce", "can (4.5 oz) Old El Paso™ chopped green chiles", " 1 package (8.2 oz) Old El Paso™ flour tortillas", "1 1/2cups shredded cheddar cheese"],
+        "steps": ["Heat oven to 375°F. Spray 13x9-inch (3-quart) baking dish or pan with cooking spray.", "In 10-inch nonstick skillet, cook beef over medium-high heat 5 to 7 minutes, stirring occasionally, until thoroughly cooked; drain. Stir in 1/2 cup of the enchilada sauce and the chiles.", "Spread 1/2 cup of the enchilada sauce evenly in baking dish. Spread 1/4 cup beef mixture down center of each tortilla; sprinkle with 1 tablespoon cheese. Wrap tortillas tightly around filling, placing seam side down in baking dish. Top with remaining enchilada sauce. Sprinkle with remaining cheese", "Bake 20 to 25 minutes or until hot and bubbly. Let stand 5 minutes before serving."],
         "trending": true
     },
 
@@ -589,6 +496,8 @@
         "image": "image 40.png",
         "title":  "Chicken Alfredo Pizza",
         "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 homemade pizza crust", "1/3 cup freshly grated parmesan cheese", "1 cup cooked chicken , chopped", "1 cup shredded mozzarella cheese", "2 ounces cream cheese softened"],
+        "steps": ["Melt butter in a saucepan over medium heat. Add garlic and cook for 30 seconds. Add cream cheese and mix until smooth. Gradually add the milk, stirring until smooth.", "Roll/stretch the pizza dough into a large circle. Bake crust for 4-5 minutes at 425 degrees F ", "Spoon alfredo sauce over the crust. Add a thin layer of mozzarella, then chopped chicken, more mozzarella, and then a sprinkle of extra parmesan cheese.", "Bake at 425 degrees F for 8-12 minutes, until cheese is melted and bubbly."],
         "trending": true
     },
 
@@ -598,14 +507,219 @@
         "image": "image 32.png",
         "title":  "Gnocchi Soup",
         "desc":   "Thick and rich broth with shredded carrots, celery, chopped spinach, gnocchi and chicken hidden throughout",
+        "ingredients":  ["1 package potato gnocchi", "3 cups fresh spinach", "2 cups milk", "2 cups chicken broth", "3 medium carrots", "1 ounce chicken"],
+        "steps": ["Add pesto, garlic powder, salt, and pepper to the hot pot, then pour in chicken broth.", "Place onion, bell pepper, and carrots on top of chicken and season with salt and pepper.", "Slowly pour in 2 cups of milk, stirring until all clumps are gone and sauce it thick, adding more milk as needed.", "Slice spinach into strips; add to the cooker with chicken. Mix for 2 minutes to heat through before serving; the heat from the soup will cook the spinach quickly."],
+        "trending": true
+    },
+
+    {
+        "category": "snacks",
+        "image": "image 66.png",
+        "title":  "French Onion Dip",
+        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["3 cups diced yellow onions", "1 teaspoon onion powder", "1 pint sourcream", "1 clove garlic, minced"],
+        "steps": ["Heat oil in a large saute pan over medium heat until shimmering, about 2 minutes. Add onions and cook, stirring occasionally, for 5 minutes.", "Reduce heat to a simmer and cook, stirring occasionally, 30 to 45 minutes.", "Once seasoned to your liking, remove from the heat and let cool to room temperature, 15 to 20 minutes.", "Mix cooled onions with sour cream until well combined. Chill for 1 hour before serving."],
+        "trending": true
+    },
+
+    {
+        "category": "snacks",
+        "image": "image 26.png",
+        "title":  "Banana Bread",
+        "desc":   "Moist, dense bread has pleasingly mild banana flavor, enhanced with a light touch of spice",
+        "ingredients":  ["2 bananas", "2 cups all-purpose flour", "2 eggs, beaten", "¾ cup brown sugar", "½ cup butter"],
+        "steps": ["Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan.", "n a large bowl, combine flour, baking soda and salt. In a separate bowl, cream together butter and brown sugar. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture; stir just to moisten. Pour batter into prepared loaf pan.", "Bake in preheated oven for 60 to 65 minutes, until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for 10 minutes, then turn out onto a wire rack"],
         "trending": true
     },
 
     {
         "category": "entrees",
-        "image": "image 43.png",
-        "title":  "French Macaroons",
-        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "image": "image 50.png",
+        "title":  "Stuffed Peppers",
+        "desc":   "Green bell peppers stuffed with ground beef, rice, and topped with tomato sauce and cheesy goodness",
+        "ingredients":  ["½ pound bulk pork sausage", "4 large green bell peppers", "6 ounces crumbled feta cheese", "1 ½ pounds ground sirloin", "6 Roma tomatoes, chopped, divided"],
+        "steps": ["Cook ground sirloin and sausage in a skillet over medium-low heat until browned and crumbly, stirring often, 5 to 10 minutes.", " Simmer over low heat until meat mixture comes together, about 20 minutes.", "Preheat the oven to 350 degrees F (175 degrees C).", "Fill bell peppers with meat mixture, alternating with layers of feta cheese and Parmesan cheese", "Bake in the preheated oven until browned and bubbly, about 30 minutes."],
         "trending": true
+    },
+
+
+    {
+        "category": "sandwiches",
+        "image": "image 30.png",
+        "title":  "Pulled Pork Sandwich",
+        "desc":   "Slow cooked, shredded meat mixed with barbercue sauce, served on a brioche bun",
+        "ingredients":  ["1 tablespoon smoked paprika","2 pounds boneless pork loin roast, cut into 1-inch cubes","1 ½ teaspoons firmly packed light brown sugar", "1 ½ cups barbeque sauce", "2 (12 count) packages Hawaiian bread rolls (such as King's®)"],
+        "steps": ["Whisk smoked paprika, brown sugar, salt, and black pepper together in a large glass or ceramic bowl. Add pork and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 30 minutes.","Heat oil and cook pork in batches until browned, 5 to 7 minutes. Pour in barbeque sauce and water. Close and lock the lid; select Manual function and set timer for 60 minutes. Allow 10 to 15 minutes for pressure to build.", " Unlock and remove lid; transfer pork to a separate plate. Reselect Saute function and simmer sauce until thickened, about 10 minutes. Shred pork with 2 two forks; mix with sauce.", "Slice bread rolls in half and fill with pulled pork; cover with tops."],
+        "trending": true
+    },
+
+    {
+        "category": "desserts",
+        "image": "image 31.png",
+        "title":  "New York Cheesecake",
+        "desc":   "A beautifully flavored, citrus-infused New York-style cheesecake with a graham cracker crust",
+        "steps": ["1 ½ pounds ricotta cheese","1 tablespoon grated orange zest", "¼ cup fresh lemon juice", "½ teaspoon almond extract", "3 eggs"],
+        "ingredients":  ["Preheat oven to 400 degrees F (205 degrees C). Grease and flour one 9 inch round springform or regular pan.","Combine the ricotta, confectioners' sugar and eggs. Blend well. Stir in vanilla, almond extract, rum extract, lemon juice, lemon zest and orange zest. Beat by hand until smooth and creamy. Pour batter into the prepared pan.","Bake at 400 degrees F (205 degrees C) for 40 minutes, until golden. Place on a rack and cool."],
+        "trending": true
+    },
+
+
+
+    {
+        "category": "sandwiches",
+        "image": "image 52.png",
+        "title":  "BLT Sandwich",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["4 slices bacon","2 leaves lettuce","2 slices bread", "2 slices tomato", "1 tablespoon mayonaise"],
+        "steps": ["Cook the bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate","Arrange the cooked bacon, lettuce, and tomato slices on one slice of bread. Spread one side of remaining bread slice with the mayonnaise. Bring the two pieces together to make a sandwich."]
+    },
+
+    {
+        "category": "seafood",
+        "image": "image 13.png",
+        "title":  "Fish Tacos",
+        "desc":   "Deep fried lump crab meat topped with Old Bay seasoning, served with Honey Dijon mustard",
+        "ingredients":  ["1 pound tilapia fillets","½ cup chopped fresh cilantro","½ lime, juiced", "¼ cup sour cream", "2 tablespoons picante sauce", "6 inch flour tortillas, warmed"],
+        "steps": ["Press garlic into a small bowl or mug. Add taco seasoning. Whisk in enough of the olive oil to form a thick liquid. Brush both sides of the tilapia liberally with the garlic mixture.","Fry tilapia in a nonstick pan until opaque, about 5 minutes per side. Transfer to a medium bowl. Add cilantro and lime juice; mix until broken into smaller piece", "Mix sour cream and picante sauce together and spread on warm tortillas. Add the tilapia mixture and top with green onions, lettuce, Cheddar cheese, and tomato."],
+        "trending": true
+    },
+
+
+
+    {
+        "category": "entrees",
+        "image": "https://neighborfoodblog.com/wp-content/uploads/2019/09/stuffed-pork-tenderloin-4-720x720.jpg",
+        "title":  "Pork Tenderloin",
+        "desc":   "Tender, juicy, thin cut of pork, crusted in Italian herbs",
+       "ingredients":  ["2 tablespoons chili powder","2 (1 pound) pork tenderloins","¼ teaspoon dried thyme", "¼ teaspoon ground ginger"],
+        "steps": ["In a small bowl, mix together chili powder, salt, ginger, thyme, and black pepper. Rub spice mix into pork tenderloins. Place meat in a baking dish, cover, and refrigerator for 2 to 3 hours.","Brush oil onto grill grate, and arrange meat on grill. Cook for 30 minutes, or to desired doneness, turning to cook evenly."],
+        "trending": true
+    },
+
+
+    {
+        "category": "entrees",
+        "image": "image 44.png",
+        "title":  "Baked Mac & Cheese",
+        "desc":   " A classic macaroni and cheese recipe featuring a special blend of cheeses",
+        "ingredients":  ["1 (16 ounce) package elbow macaroni", "4 tablespoons butter", "2 cups whole milk", "8 ounces shredded Cheddar cheese", "4 ounces shredded Swiss cheese", "4 ounces Velveeta® processed cheese"],
+        "steps": ["Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain.", "Melt the butter in the bottom of an oven-proof fry pan. Add the flour and stir over heat until just beginning to brown - don't let it get too brown. Take it off the heat and stir in about 1 cup of milk until the butter and flour mixture is fully incorporated. Put it back on the heat and simmer until just beginning to thicken, about 5 minutes. Add the rest of the milk; stir to fully incorporate.", "Add all of the cheeses and stir to melt. Once melted, add the cooked macaroni. Stir to mix."]
+       
+    },
+
+    
+    {
+        "category": "appetizers",
+        "image": "image 45.png",
+        "title":  "Sausage Calzone",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["1 ½ cups all-purpose flour, or more if needed", "1 envelope Fleischmann's® Pizza Crust Yeast", "8 ounces Italian sausage", "¾ cup ricotta cheese", "¾ cup shredded mozzarella cheese", "1 tablespoon vegetable oil"],
+        "steps": ["Combine 1 cup flour, undissolved yeast, sugar and salt in a large bowl. Add very warm water and oil; mix until well blended, about 1 minute. Gradually add enough remaining flour to make a soft dough.", "Cook sausage in skillet over medium-high heat until cooked through", "Combine ricotta, mozzarella and egg in a mixing bowl. Stir in Italian herb seasoning, crushed red pepper and garlic salt; set aside.", "Bake for 15 to 20 minutes until lightly browned. Transfer to cooling rack to keep bottom crust crisp while cooling slightly."]
+       
+    },
+
+    {
+        "category": "sandwiches",
+        "image": "image 51.png",
+        "title":  "Philly Cheesesteak",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["1 pound beef round steak, cut into thin strips", "4 hoagie rolls, split lengthwise and toasted", "1 (8 ounce) package shredded mozzarella cheese", "2 onions, sliced into rings", "2 green bell peppers, cut into 1/4 inch strips"],
+        "steps": ["Heat oil in a large skillet over medium heat. Saute beef until lightly browned. Stir in green pepper and onion, and season with salt and pepper. Saute until vegetables are tender, and remove from heat.", "Spread each bun generously with garlic mayonnaise. Divide beef mixture into the buns. Top with shredded cheese, and sprinkle with oregano. Place sandwiches on a baking pan.", "Heat sandwiches in preheated oven, until cheese is melted or slightly browned."]
+       
+    },
+
+    
+
+    {
+        "category": "sandwiches",
+        "image": "image 53.png",
+        "title":  "Pesto Panini",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["1 focaccia bread, quartered", "½ cup prepared basil pesto", "1 cup diced cooked chicken", "1 cup shredded Monterey Jack cheese", "½ cup diced green bell pepper"],
+        "steps": ["Slice each quarter of focaccia bread in half horizontally. Spread each half with pesto. Layer bottom halves with equal amounts chicken, bell pepper, onion, and cheese. Top with remaining focaccia halves, forming 4 sandwiches.", "Grill paninis 5 minutes in the preheated grill, or until focaccia bread is golden brown and cheese is melted."]
+       
+    },
+
+
+    {
+        "category": "sandwiches",
+        "image": "image 55.png",
+        "title":  "Chicken Cordon Bleu",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["½ cup diced smoked ham", "1 ½ teaspoons Dijon mustard", "1 cup diced cooked chicken breast", "4 (1/2 inch thick) slices toasted French bread", "½ cup shredded Gruyere cheese", "2 tablespoons dry bread crumbs"],
+        "steps": ["Melt 2 tablespoons butter in a saucepan over medium heat. Cook and stir ham and onion in melted butter until onion turns translucent, about 5 minutes. Stir in thyme and cook for 1 minute. Add flour and cook, stirring constantly, until flour has lost its raw smell, about 3 minutes. Remove from heat and pour in 1/2 cup plus 1 tablespoon milk. Place saucepan back over medium heat and cook, stirring constantly, until sauce is thick, 1 to 2 minutes", "Remove saucepan from heat and add 1/2 cup shredded Gruyere cheese, Dijon mustard, salt, black pepper, cayenne pepper, and nutmeg. Stir to combine.", "Place toasted bread slices on the prepared baking sheet. Brush one side of each bread slice with 3/4 teaspoon melted butter. Turn slices over and top each with 1/4 of the cheese sauce. Sprinkle 1 tablespoon shredded Gruyere cheese over the top of each sandwich. Top with bread crumb mixture.", "Bake sandwiches in the preheated oven until cheese is bubbling and chicken mixture is hot, 15 to 20 minutes."]
+       
+    },
+
+    {
+        "category": "drinks",
+        "image": "image 57.png",
+        "title":  "Iced Coffee",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["4 cups fresh brewed coffee", "¼ cup white sugar", "3 cups crushed ice", "½ cup cream"],
+        "steps": ["Refrigerate coffee until cool, about 30 minutes. Chill four glasses, if desired. Stir vanilla extract and sugar in the boiling water until dissolved. Refrigerate until cool, about 30 minutes. Divide the ice and chilled coffee evenly between the four glasses. Stir in cream and sugar mixture, to taste."]
+       
+    },
+
+
+
+    {
+        "category": "drinks",
+        "image": "image 59.png",
+        "title":  "Peach Sangria",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["4 fresh peaches - peeled, pitted, and diced", "½ cup triple sec", "2 tablespoons white sugar", "1 (750 milliliter) bottle Prosecco, chilled"],
+        "steps": ["Combine triple sec, sugar, and lemon juice in a bowl and stir to dissolve; add peaches. Put in the refrigerator for 8 hours, or overnight.", "Pour peach mixture into a pitcher, top with Prosecco, and serve immediately."]
+       
+    },
+
+
+    
+    {
+        "category": "drinks",
+        "image": "image 58.png",
+        "title":  "Lime Margharita",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["5 fluid ounces tequila", "3 fluid ounces triple sec", "2 (6 ounce) cans frozen limeade concentrate", "4 cups ice cubes", "coarse salt"],
+        "steps": ["Salt the rims of 2 large margarita glasses. To do so, pour salt onto a small plate, moisten the rims of the glasses on a damp towel and press them into the salt.", "In a blender combine tequila, triple sec and limeade concentrate. Fill blender with ice cubes. Blend until smooth. Pour into glasses, garnish with slice of lime and serve."]
+       
+    },
+
+    {
+        "category": "drinks",
+        "image": "image 60.png",
+        "title":  "Vanilla Milkshake",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["2 cups vanilla ice cream", "1 cup whole milk", "1 teaspoon vanilla extract"],
+        "steps": ["In a blender, combine ice cream, milk and vanilla extract. Blend until smooth. Pour into glasses and serve."]
+       
+    },
+
+    {
+        "category": "drinks",
+        "image": "image 64.png",
+        "title":  "Rasberry Iced Tea",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["1 cup fresh raspberries", "½ cup white sugar", "½ cup powdered lemonade mix", "ice cubes"],
+        "steps": ["Bring the water to a boil in a large pot, and stir in the tea bags, raspberries, and sugar until the sugar has dissolved. Allow the mixture to steep until the desired level of tea flavor is reached, 3 to 5 minutes; remove tea bags, and stir in the lemonade mix until dissolved. Pour tea into pitchers, and add ice to cool."]
+       
+    },
+
+    {
+        "category": "snacks",
+        "image": "image 49.png",
+        "title":  "Caramel Almond Bark",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  ["½ cup chopped almonds", "2 cups milk chocolate chips", "1 tablespoon shortening", "1/2 cup caramel sauce"],
+        "steps": ["Line a 9x13 inch baking pan with parchment paper. Set aside. Put chopped almonds In a skillet. Cook, stirring often over medium high heat, until golden brown. Remove from heat.", "In a metal bowl over a pan of simmering water, melt chocolate chips and shortening until smooth. Remove from heat and stir in 1/2 the toasted almonds. Spread onto the prepared baking pan. Sprinkle with remaining almonds, and chill 30 minutes, or until solid. Break into bite-size pieces to serve."]
+    },
+
+    {
+        "category": "snacks",
+        "image": "image 65.png",
+        "title":  "Pretzel Bites",
+        "desc":   "Calzone with layers filled with ricotta, mozzarella, and Italian sausage.",
+        "ingredients":  [],
+        "steps": []
     }
 ]

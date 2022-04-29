@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search | Recipes</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="menu.css">
+    <link rel="stylesheet" href="main.css">
+    
+</head>
+<body>
+
+    <div class="loader-container">
+        <div class="loader"></div>
+    </div>
+
+    <nav class="nav">
+        <div class="menu">
+             <i class="fa-solid fa-bars"></i>
+        </div>
+ 
+        <div class="logo">
+            <img src="logo.png" alt="">
+        </div>
+ 
+        <div class="nav-right">
+             <div class="socials">
+                 <h4>Follow</h4>
+                 <i class="fa-brands fa-facebook-f"></i>
+                 <i class="fa-brands fa-twitter"></i>
+                 <i class="fa-brands fa-instagram"></i>
+             </div>
+ 
+             <button class="search-btn">
+                 <h4>Search</h4>
+                 <i class="fa-solid fa-magnifying-glass"></i>
+             </button>
+         </div>
+     </nav> 
+
+
+     <div class="search-page-container">
+        <input type="text" class="search-page-input" placeholder="Search for a recipe">
+        <p class="input-header">Showing all results for</p>
+     </div>
+    
+    <main>
+        <section class="search-items-section">
+            <div class="search-items-grid">
+                <a href="single-recipe.html" class="recipe-item" data-id="Chicken Fingers">
+                    <img class="recipe-img" src="https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_270/SFS_chicken_fingers-28_e0wgsl">
+                    <div class="recipe-info">
+                        <h2 class="recipe-title">Chicken Fingers</h2>
+                        <p>Yummy delicous and crispy chicken fingers with tender boneless meat</p>
+                    </div>
+                </a>
+
+                <a href="single-recipe.html" class="recipe-item" data-id="Chicken Fingers">
+                    <img class="recipe-img" src="https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_270/SFS_chicken_fingers-28_e0wgsl">
+                    <div class="recipe-info">
+                        <h2 class="recipe-title">Chicken Fingers</h2>
+                        <p>Yummy delicous and crispy chicken fingers with tender boneless meat</p>
+                    </div>
+                </a>
+            </div>
+        </section>
+    </main> 
+    <script type="module" src="search.js"></script>
+</body>
+</html>

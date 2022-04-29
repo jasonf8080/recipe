@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Recipe</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="menu.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+
+    <div class="loader-container">
+        <div class="loader"></div>
+    </div>
+
+    <nav class="nav">
+        <div class="menu">
+             <i class="fa-solid fa-bars"></i>
+        </div>
+ 
+        <div class="logo">
+            <img src="logo.png" alt="">
+        </div>
+ 
+        <div class="nav-right">
+             <div class="socials">
+                 <h4>Follow</h4>
+                 <i class="fa-brands fa-facebook-f"></i>
+                 <i class="fa-brands fa-twitter"></i>
+                 <i class="fa-brands fa-instagram"></i>
+             </div>
+ 
+             <button class="search-btn">
+                 <h4>Search</h4>
+                 <i class="fa-solid fa-magnifying-glass"></i>
+             </button>
+         </div>
+     </nav> 
+
+     
+
+    <section class="selected-recipe" id="selected-recipe">
+        <div class="selected-recipe-header">
+            <h1 class="selected-recipe-title">Loading...</h1>
+            <div class="recipe-ratings">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+
+            <p class="selected-recipe-desc"></p>
+
+        </div>
+
+        <div class="selected-recipe-info">
+            <div class="save-print-share"><!--item 1-->
+                <img src="Image 75.png" alt="">
+                <img src="Image 70.png" alt="">
+                <img src="Image 71.png" alt="">
+                <img src="Image 72.png" alt="">
+            </div>
+            
+                
+            <img src="https://media.mixbook.com/images/templates/97_1_0_m.jpg" class="selected-recipe-img"> <!--item 2-->
+    
+            
+
+            <div class="selected-recipe-ingredients"><!--item 3-->
+                <h2>Ingredients</h2>
+
+                <ul class="ingredients-list"></ul>
+            </div>
+        </div>
+        
+    </section>
+
+    <section class="steps">
+        <h1>Steps:</h1>
+
+        <ul class="recipe-steps"></ul>
+    </section>
+    <script type="module" src="select-recipe.js"></script>
+</body>
+</html>
