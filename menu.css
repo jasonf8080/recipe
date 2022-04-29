@@ -60,6 +60,7 @@ body{
     top: 0;
     left: -100%;
     width: 25vw;
+    min-width: 100px;
     z-index: 50;
     min-height: 100vh;
     background: #222;
