@@ -322,6 +322,15 @@ section{
     }
 
     .recipe-item{
-        grid-template-columns: 140px auto !important;
+        grid-template-columns: 100px auto !important;
+    }
+
+    .recipe-info h2{
+        font-size: 18px;
+    }
+    
+    .recipe-info p{
+        font-size: 10px;
+        line-height: 1.75;
     }
 }
