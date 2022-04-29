@@ -602,17 +602,35 @@ img{
     body{
         border: 3px solid greenyellow;
     }
+
+    .logo{
+        transform: translateX(0%);
+    }
+
+    .nav-right .socials{
+        display: none;
+    }
 }
 
 @media(max-width: 768px){
     body{
         border: 3px solid rgb(255, 47, 47);
     }
+
+
+    .search-btn h4{
+        display: none;
+    }
+
 }
 
 @media(max-width: 600px){
     body{
         border: 3px solid rgb(255, 165, 47);
+    }
+
+    .side-menu{
+        min-width: 100px;
     }
 }
 
