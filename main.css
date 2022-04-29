@@ -29,6 +29,10 @@ a{
     text-decoration: none;
 }
 
+img{
+    display: block;
+}
+
 main{
     max-width: 85%;
     margin: 0 auto;
@@ -80,11 +84,11 @@ section{
 
 
 /*categories*/
-.categories-grid{
+.categories-grid, .trending-grid{
     max-width: 100%;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     column-gap: 20px;
     row-gap: 50px;
     transition: transform 0.5s;
@@ -92,7 +96,7 @@ section{
 }
 
 
-.category-item{
+.category-item, .recipe-item{
     max-width: 100%;
     background: rgb(245, 122, 41);
     border-radius: 12px;
@@ -102,17 +106,17 @@ section{
 }
 
 
-.category-item:hover{
+.category-item:hover, .recipe-item:hover{
     transform: translateY(-10px);
 }
 
 
-.category-item img{
+.category-item img, .recipe-item img{
     border-radius: 12px 12px 0px 0px; 
     max-width: 100%;
 }
 
-.category-name{
+.category-name, .recipe-name{
     position: absolute;
     bottom: -20px;
     left: 0px;
@@ -130,11 +134,11 @@ section{
 
 
 
-.trending-grid, .category-recipe-grid, .search-items-grid{
+ .category-recipe-grid, .search-items-grid{
     max-width: 100%;
     min-width: 100%;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     column-gap: 20px;
     row-gap: 20px;
     padding: 0;
@@ -142,39 +146,18 @@ section{
 }
 
 
-.recipe-item{
-    max-width: 100%;
-    display: grid;
-    grid-template-columns: 160px auto;
-    color: rgb(34, 24, 24);
-    border-radius: 15px;
-    box-shadow: 0px 4px 15px rgb(204, 204, 204);
-    cursor: pointer;
-    transition: transform 0.5s, border 0.3s;
-    background: rgb(255, 249, 239);
-}
 
-.recipe-item:hover{
-    transform: translateY(-8px);
-}
 
-.recipe-item img{
-    max-width: 100%;
-    border-radius: 12px 0px 0px 12px;
-}
 
-.recipe-info{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 0 30px;
-}
+
+
+
 
 .recipe-info h2{
     font-size: 25px;
    text-transform: capitalize;
     font-weight: bold;
-    color: rgb(231, 108, 26);
+    color: #333;
 }
 
 .recipe-info p{
@@ -285,11 +268,11 @@ section{
 
 @media(max-width: 992px){
 
-    .trending-grid, .category-recipe-grid, .search-items-grid{
+    .category-recipe-grid, .search-items-grid{
         grid-template-columns: 1fr;
     }
 
-    .categories-grid{
+    .categories-grid, .trending-grid{
         grid-template-columns: repeat(2, 1fr);
     }
 }
@@ -336,7 +319,7 @@ section{
 
     }
 
-    .categories-grid{
+    .categories-grid, .trending-grid{
         row-gap: 40px;
     }
 
