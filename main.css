@@ -322,7 +322,7 @@ section{
     }
 
     .recipe-item{
-        grid-template-columns: 100px auto !important;
+        grid-template-columns: 120px auto !important;
     }
 
     .recipe-info h2{
