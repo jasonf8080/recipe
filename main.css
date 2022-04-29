@@ -152,7 +152,7 @@ section{
    /*background: rgb(49, 35, 35);*/
     cursor: pointer;
     transition: transform 0.5s, border 0.3s;
-    background: rgb(255, 250, 244);
+    background: rgb(255, 246, 234);
 }
 
 .recipe-item:hover{
