@@ -18,7 +18,7 @@ const load = async() => {
     inputHeader.textContent = `Showing results for "${searchValue}"`;
 
     
-   displayRecipe(searchItemsSection, results);
+   displayRecipe(results, searchItemsSection);
 
    const searchRecipes = [...document.querySelectorAll('.recipe-item')];
    selectRecipe(searchRecipes);
