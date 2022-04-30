@@ -571,8 +571,8 @@ main{
     }
 
     .categories-grid, .trending-grid,  .category-recipe-grid, .search-items-grid{
-        column-gap: 15px;
-        row-gap: 30px;
+        /*column-gap: 15px;
+        row-gap: 30px;*/
         grid-template-columns: 1fr;
     }
 
