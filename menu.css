@@ -637,6 +637,23 @@ img{
     .selected-recipe .recipe-ratings i{
         font-size: 16px;
     }
+
+    /*Search Page*/
+    .search-page-container{
+        min-width: 80%;
+   }
+
+
+.search-page-container input{
+    font-size: 16px;
+}
+
+   .search-page-container p{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 16px;
+}
+
 }
 
 
