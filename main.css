@@ -88,7 +88,7 @@ section{
 
 
 /*categories*/
-.categories-grid, .trending-grid{
+.categories-grid, .trending-grid,  .category-recipe-grid, .search-items-grid{
     max-width: 100%;
     margin: 0 auto;
     display: grid;
@@ -116,7 +116,7 @@ section{
 
 
 .category-item img, .recipe-item img{
-    border-radius: 12px 12px 0px 0px; 
+    border-radius: 12px; 
     max-width: 100%;
 }
 
@@ -138,16 +138,6 @@ section{
 
 
 
- .category-recipe-grid, .search-items-grid{
-    max-width: 100%;
-    min-width: 100%;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    column-gap: 20px;
-    row-gap: 20px;
-    padding: 0;
-    justify-content: center;
-}
 
 
 
@@ -174,7 +164,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 .pages-div a{
@@ -308,7 +298,7 @@ section{
     }
 
     .pages-div{
-        margin-top: 25px;
+        margin-top: 40px;
     }
 
     .pages-div span{

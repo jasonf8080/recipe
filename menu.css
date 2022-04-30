@@ -382,14 +382,8 @@ img{
     transition: transform 0.5s, border 0.3s;
 }*/
 
-.recipe-item:hover{
-    transform: translateY(-8px);
-}
 
-.recipe-item img{
-    max-width: 100%;
-    border-radius: 12px 0px 0px 12px;
-}
+
 
 .recipe-info{
     display: flex;
