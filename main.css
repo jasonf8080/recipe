@@ -295,13 +295,8 @@ section{
         max-width: 90%;
     }
 
-    .recipe-item{
-        grid-template-columns: 125px auto !important;
-    }
+   
 
-    .recipe-info h2{
-        font-size: 18px;
-    }
     
     .recipe-info p{
         font-size: 11px;
@@ -323,9 +318,9 @@ section{
         row-gap: 40px;
     }
 
-    .category-name{
-        bottom: -12px;
-        font-size: 16px;
-        padding: 12px 0;
+    .category-name, .recipe-name{
+        bottom: -12px !important;
+        font-size: 16px !important;
+        padding: 12px 0 !important;
     }
 }
