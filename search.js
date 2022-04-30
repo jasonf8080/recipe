@@ -34,7 +34,6 @@ searchPageInput.addEventListener('keyup', async(e) => {
         const data = await fetchData();
         inputHeader.textContent = `Showing results for "${inputValue}"`;
         const newResults = getResults(data, inputValue);
-        //if newResults.length < 1, textContent.Sorry no results matched your search
         displayRecipe(newResults, searchItemsSection);
 
         const searchRecipes = [...document.querySelectorAll('.recipe-item')];
