@@ -398,6 +398,7 @@ main{
 
 .header-info img{
     max-width: 100%;
+    min-width: 100%;
     height: auto;
 }
 
@@ -529,7 +530,7 @@ main{
 
     .title{
         margin-bottom: 26px;
-        font-size: 30px;
+        font-size: 20px;
     }
 
     .nav-right .socials{
@@ -547,7 +548,7 @@ main{
         margin-bottom: 50px;
     }
 
-    main{
+    main, .header-info{
         max-width: 90%;
     }
 
