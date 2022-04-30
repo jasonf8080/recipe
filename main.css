@@ -315,7 +315,8 @@ section{
     }
 
     .categories-grid, .trending-grid{
-        row-gap: 40px;
+        column-gap: 15px;
+        row-gap: 30px;
     }
 
     .category-name, .recipe-name{
