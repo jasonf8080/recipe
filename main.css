@@ -33,6 +33,10 @@ img{
     display: block;
 }
 
+section{
+    padding-top: 20px;
+}
+
 main{
     max-width: 85%;
     margin: 0 auto;
@@ -173,7 +177,7 @@ section{
     margin-top: 50px;
 }
 
-.pages-div span{
+.pages-div a{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -187,7 +191,7 @@ section{
     border-radius: 4px;
 }
 
-.pages-div span.active{
+.pages-div a.active{
     background: rgb(163, 69, 6);
 }
 
