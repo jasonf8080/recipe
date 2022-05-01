@@ -559,7 +559,19 @@ main{
     background: rgb(143, 3, 3);
 }
 
+/*Footer*/
+footer{
+    background: #FE1515;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 0;
+}
 
+footer img{
+    max-width: 300px;
+    height: auto;
+}
 
 
 
@@ -595,6 +607,27 @@ main{
 
     .search-btn h4{
         display: none;
+    }
+
+    .side-menu{
+        width: 40vw;
+        min-width: 250px !important;
+    }
+
+    .side-logo{
+        width: 70px;
+        height: auto;
+        margin-bottom: 30px;
+    }
+
+    .side-menu-follow h4, .links a{
+        font-size: 16px;
+        margin-bottom: 18px;
+    }
+    
+    .side-menu-follow .socials i{
+        font-size: 18px;
+        padding: 20px;
     }
 
     .about-grid{
