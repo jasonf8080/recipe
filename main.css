@@ -412,7 +412,7 @@ main{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 20px;
-    row-gap: 50px;
+    row-gap: 30px;
     transition: transform 0.5s;
     cursor: pointer;
 }
@@ -583,7 +583,7 @@ main{
 
     .categories-grid, .trending-grid,  .category-recipe-grid, .search-items-grid{
         column-gap: 15px;
-        row-gap: 30px;
+        row-gap: 25px;
     }
 
     .category-name, .recipe-name{
