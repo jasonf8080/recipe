@@ -1,51 +1,51 @@
 export const categoriesData = [
     {
-        img: 'image 46.png',
+        img: 'Image 11.png',
         title: 'appetizers'
     },
 
     {
-        img: 'image 16.png',
+        img: 'Image 10.png',
         title: 'salads'
     },
 
     {
-        img: 'image 62.png',
+        img: 'Image 2.png',
         title: 'soups'
     },
 
     {
-        img: 'image 18.png',
+        img: 'Image 3.png',
         title: 'breakfast'
     },
 
     {
-        img: 'image 63.png',
+        img: 'Image 4.png',
         title: 'sandwiches'
     },
 
     {
-        img: 'image 20.png',
+        img: 'Image 5.png',
         title: 'seafood'
     },
 
     {
-        img: 'image 21.png',
+        img: 'Image 6.png',
         title: 'entrees'
     },
 
     {
-        img: 'image 22.png',
+        img: 'Image 7.png',
         title: 'desserts'
     },
 
     {
-        img: 'image 49.png',
+        img: 'Image 8.png',
         title: 'snacks'
     },
 
      {
-        img: 'image 23.png',
+        img: 'Image 9.png',
         title: 'drinks'
     }
 ]

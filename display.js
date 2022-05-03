@@ -9,7 +9,7 @@ export const displayRecipe = (array, section) => {
         <p class="recipe-name">${recipe.title}</p>
        </a>`
     ).join('');
-    console.log(recipes)
+
     section.innerHTML = recipes;
     hideLoader();
 }

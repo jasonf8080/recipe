@@ -42,6 +42,8 @@ export const paginateAll = async() => {
 
     numbersDiv.innerHTML = numbers;
 
+    
+
    return paginateArray;
 }
 

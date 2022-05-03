@@ -39,7 +39,14 @@ const loadRecipe = async () => {
     hideLoader();
 }
 }
+
+const homeBtn = document.querySelector('#home-btn')
+     homeBtn.addEventListener('click', () => {
+        window.location = 'index.html'
+    })
 }
+
+
 
 
 

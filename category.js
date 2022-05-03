@@ -5,7 +5,7 @@ import { displayRecipe } from "./display.js";
 
 const selectedCategory = localStorage.getItem('category');
 const categoryTitle = document.querySelector('.category-page .title');
-const categoryRecipesSection = document.querySelector('.category-recipe-grid')
+const categoryRecipesSection = document.querySelector('.category-recipe-grid');
 
 
 //EVENT LISTENERS
@@ -22,7 +22,16 @@ const load = async() => {
     //single recipe module
      const recipes = document.querySelectorAll('.recipe-item');
      selectRecipe(recipes);
+
+
+     const homeBtn = document.querySelector('#home-btn')
+     homeBtn.addEventListener('click', () => {
+        window.location = 'index.html'
+    })
 }
+
+
+
 
 
 

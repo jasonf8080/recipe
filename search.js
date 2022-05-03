@@ -22,8 +22,15 @@ const load = async() => {
 
    const searchRecipes = [...document.querySelectorAll('.recipe-item')];
    selectRecipe(searchRecipes);
+
+   const homeBtn = document.querySelector('#home-btn')
+     homeBtn.addEventListener('click', () => {
+        window.location = 'index.html'
+    })
  
 }
+
+
 
 
 searchPageInput.addEventListener('keyup', async(e) => {

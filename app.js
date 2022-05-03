@@ -10,7 +10,7 @@ import { paginateAll } from "./sort.js";
 
 
 
-
+const links = document.querySelectorAll('.links a')
 const trendingSection = document.querySelector('.trending-grid');
 const categorySection = document.querySelector('.categories-grid');
 const numbers = document.querySelector('.pages-div');
@@ -54,9 +54,8 @@ const load = async() =>{
 
    const trendingRecipes = [...document.querySelectorAll('.recipe-item')];
     selectRecipe(trendingRecipes);
-
-
 }
+
 
 menuBtn.addEventListener('click', () => {
     sideMenu.classList.add('active');
@@ -66,7 +65,11 @@ menuExitBtn.addEventListener('click', () => {
     sideMenu.classList.remove('active');
 })
 
-
+links.forEach((link) => {
+    link.addEventListener('click', () => {
+        sideMenu.classList.remove('active');
+    })
+})
 
 searchBtn.addEventListener('click', () => {
     searchModal.classList.add('active');
@@ -134,6 +137,15 @@ numbers.addEventListener('click', async(e) => {
         displayRecipe(allPaginate[allRecipeIndex], allRecipesSection);
      }
 
+     const allRecipeNumbersEl = [...document.querySelectorAll('.numbers-div .number')];
+     allRecipeNumbersEl.forEach((number) => {
+        number.addEventListener('click', (number) => {
+            number.classList.remove('active');
+        })
+        
+     })
+
+     allRecipeNumbersEl[allRecipeIndex].classList.add('active');
 
      const allRecipes = [...document.querySelectorAll('.recipe-item')];
      selectRecipe(allRecipes);
