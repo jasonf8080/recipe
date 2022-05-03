@@ -6,14 +6,16 @@ import { displayRecipe } from "./display.js";
 import { displayCategories } from "./display.js";
 import { selectRecipe } from "./category.js";
 import { hideLoader, showLoader } from "./loading.js";
+import { paginateAll } from "./sort.js";
+
 
 
 
 const trendingSection = document.querySelector('.trending-grid');
 const categorySection = document.querySelector('.categories-grid');
 const numbers = document.querySelector('.pages-div');
-const numbersElements = [...document.querySelectorAll('.number')];
-let index = 0;
+const numbersElements = [...document.querySelectorAll('.pages-div .number')];
+let trendingIndex = 0;
 let pages = [];
 const loader = document.querySelector('.loader-container');
 const searchBtn = document.querySelector('.search-btn');
@@ -25,8 +27,9 @@ const header = document.querySelector('.header');
 const menuBtn = document.querySelector('.menu');
 const menuExitBtn = document.querySelector('.side-menu .menu-exit');
 const sideMenu = document.querySelector('.side-menu');
-
-
+const allRecipesSection = document.querySelector('.all-recipes-grid');
+const allRecipeNumbers = document.querySelector('.numbers-div');
+let allRecipeIndex = 0;
 
 
 
@@ -40,16 +43,23 @@ const load = async() =>{
     const trending = setTrending(data);
    
    pages = paginate(trending);//whole array
-   displayRecipe(pages[index], trendingSection);
+   displayRecipe(pages[trendingIndex], trendingSection);
+   const allPaginate = await paginateAll();
+    displayRecipe(allPaginate[3], allRecipesSection)
+
    displayCategories(categorySection, categoriesData);
 
+
+   //const sortedList = await sort();
+   //console.log(sortedList)
    
    const categories = [...document.querySelectorAll('.category-item')];
    selectCategory(categories);
 
    const trendingRecipes = [...document.querySelectorAll('.recipe-item')];
     selectRecipe(trendingRecipes);
-   
+
+
 }
 
 menuBtn.addEventListener('click', () => {
@@ -99,17 +109,16 @@ searchRecipeBtn.addEventListener('click', (e) => {
 
 numbers.addEventListener('click', async(e) => {
     if(e.target.classList.contains('number')){
-       index = parseInt(e.target.dataset.id - 1);
-       await fetchData();
-       displayRecipe(pages[index], trendingSection);
-
-       
+       trendingIndex = parseInt(e.target.dataset.id - 1);
+       //await fetchData();
+       displayRecipe(pages[trendingIndex], trendingSection);
        
        const trendingRecipes = [...document.querySelectorAll('.recipe-item')];
        selectRecipe(trendingRecipes);
     }
   })
-  
+
+
 
   numbersElements.forEach(number => {
     number.addEventListener('click', () => {
@@ -119,6 +128,21 @@ numbers.addEventListener('click', async(e) => {
         number.classList.add('active');
     })
 }) 
+
+
+  allRecipeNumbers.addEventListener('click', async(e) => {
+    const allPaginate = await paginateAll();
+
+     if(e.target.classList.contains('number')){
+        allRecipeIndex  = parseInt(e.target.dataset.id - 1);
+        displayRecipe(allPaginate[allRecipeIndex], allRecipesSection);
+     }
+
+  })
+
+
+  
+
 
 
 

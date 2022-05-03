@@ -452,7 +452,7 @@ main{
 
 
 /*categories*/
-.categories-grid, .trending-grid,  .category-recipe-grid, .search-items-grid{
+.categories-grid, .trending-grid,  .category-recipe-grid, .search-items-gri, all-recipes-gridd, .all-recipes-grid{
     max-width: 100%;
     margin: 0 auto;
     display: grid;
@@ -534,29 +534,29 @@ main{
     line-height: 1.75;
 }
 
-.pages-div{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 60px;
-}
 
-.pages-div a{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 40px;
-    width: 40px;
-    margin-right: 10px;
-    color: white;
-    cursor: pointer;
-    background: rgb(230, 28, 28);
-    font-size: 20px;
-    border-radius: 4px;
-}
 
-.pages-div a.active{
+.pages-div a.active, .numbers-div a.active{
     background: rgb(143, 3, 3);
+}
+
+.numbers-div, .pages-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.number{
+    border-radius: 4px;
+    width: 30px;
+    height: 30px;
+    background: rgb(230, 28, 28);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8px;
 }
 
 /*Footer*/
@@ -589,7 +589,7 @@ footer img{
 
 @media(max-width: 992px){
 
-    .categories-grid, .trending-grid, .category-recipe-grid, .search-items-grid{
+    .categories-grid, .trending-grid, .category-recipe-grid, .search-items-grid, .all-recipes-grid{
         grid-template-columns: repeat(2, 1fr);
     }
 }
@@ -675,7 +675,7 @@ footer img{
 
     }
 
-    .categories-grid, .trending-grid,  .category-recipe-grid, .search-items-grid{
+    .categories-grid, .trending-grid,  .category-recipe-grid, .search-items-grid, .all-recipes-grid{
         column-gap: 15px;
         row-gap: 25px;
     }

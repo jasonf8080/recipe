@@ -1,12 +1,8 @@
 //FUNCTIONS
 export const setTrending = (data) => { 
-  
-   
     const trending = data.filter((item) =>{
         return item.trending === true;
     })
-
-    console.log(trending)
     return trending;
 }
 
