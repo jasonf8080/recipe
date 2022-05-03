@@ -45,13 +45,9 @@ const load = async() =>{
    pages = paginate(trending);//whole array
    displayRecipe(pages[trendingIndex], trendingSection);
    const allPaginate = await paginateAll();
-    displayRecipe(allPaginate[3], allRecipesSection)
+    displayRecipe(allPaginate[allRecipeIndex], allRecipesSection)
 
    displayCategories(categorySection, categoriesData);
-
-
-   //const sortedList = await sort();
-   //console.log(sortedList)
    
    const categories = [...document.querySelectorAll('.category-item')];
    selectCategory(categories);
