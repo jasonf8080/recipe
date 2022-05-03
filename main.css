@@ -489,15 +489,21 @@ main{
 }
 
 
-.category-item:hover, .recipe-item:hover{
-    transform: translateY(-10px);
-}
 
 
 .category-item img, .recipe-item img{
     border-radius: 12px; 
     max-width: 100%;
 }
+
+.category-item, .category-item::after, .category-item img{
+    border-radius: 5px;
+}
+
+.category-item:hover, .recipe-item:hover{
+    transform: translateY(-10px);
+}
+
 
 .category-name, .recipe-name{
     position: absolute;
