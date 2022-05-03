@@ -706,6 +706,10 @@ footer img{
         row-gap: 25px;
     }
 
+    .categories-grid{
+        row-gap: 15px;
+    }
+
     .category-name, .recipe-name{
         font-size: 16px !important;
     }
