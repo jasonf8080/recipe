@@ -701,13 +701,14 @@ footer img{
 
     }
 
-    .categories-grid, .trending-grid,  .category-recipe-grid, .search-items-grid, .all-recipes-grid{
+    .trending-grid,  .category-recipe-grid, .search-items-grid, .all-recipes-grid{
         column-gap: 15px;
         row-gap: 25px;
     }
 
     .categories-grid{
-        row-gap: 15px;
+        row-gap: 5px;
+        column-gap: 5px;
     }
 
     .category-name, .recipe-name{
