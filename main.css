@@ -527,14 +527,6 @@ main{
 }
 
 
-
-
-
-
-
-
-
-
 .recipe-info h2{
     font-size: 25px;
    text-transform: capitalize;
@@ -579,6 +571,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 120px;
     padding: 12px 0;
 }
 
