@@ -138,6 +138,9 @@ numbers.addEventListener('click', async(e) => {
         displayRecipe(allPaginate[allRecipeIndex], allRecipesSection);
      }
 
+
+     const allRecipes = [...document.querySelectorAll('.recipe-item')];
+     selectRecipe(allRecipes);
   })
 
 
