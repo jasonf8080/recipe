@@ -708,23 +708,7 @@ footer img{
         font-size: 16px !important;
     }
 
-        /*Search Page*/
-        .search-page-container{
-            min-width: 80%;
-            margin-top: 20px;
-            margin-bottom: 20px;
-       }
     
-    
-    .search-page-container input{
-        font-size: 16px;
-    }
-    
-       .search-page-container p{
-        font-size: 16px;
-        text-align: center;
-        margin-top: 16px;
-    }
 
     footer img{
         max-width: 140px;
