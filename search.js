@@ -43,7 +43,7 @@ searchPageInput.addEventListener('keyup', async(e) => {
         document.body.style.background = 'green'
         const newResults = getResults(data, inputValue);
         displayRecipe(newResults, searchItemsSection);
-        document.body.style.background = 'red'
+        
 
         const searchRecipes = [...document.querySelectorAll('.recipe-item')];
         selectRecipe(searchRecipes);
