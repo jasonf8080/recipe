@@ -16,7 +16,7 @@ body{
 .search-page-container input{
     padding: 20px;
     border: none;
-    border-bottom: 2px solid rgb(230, 28, 28);
+    box-shadow: 0px 0px 5px 0px rgba(233, 37, 37, 0.2);
     border-radius: 6px;
     font-size: 26px;
     text-transform: capitalize;
