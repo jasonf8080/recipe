@@ -7,6 +7,7 @@ searchValue = searchValue.toLowerCase();
 const searchItemsSection = document.querySelector('.search-items-grid')
 const inputHeader = document.querySelector('.input-header');
 const searchPageInput = document.querySelector('.search-page-input');
+const searchBtn = document.querySelector('.search-div i');
 
 
 
@@ -33,8 +34,8 @@ const load = async() => {
 
 
 
-searchPageInput.addEventListener('keyup', async(e) => {
-    let inputValue = e.target.value;
+searchBtn.addEventListener('click', async(e) => {
+    let inputValue = searchPageInput.value;
     
     if(inputValue){
         //localStorage.removeItem('searchValue');

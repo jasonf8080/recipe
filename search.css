@@ -1,3 +1,7 @@
+body{
+    min-height: 100vh !important;
+}
+
 .search-page-container{
     width: 50%;
     min-width: 300px;
@@ -10,14 +14,32 @@
     margin-bottom: 30px;
 }
 
-.search-page-container input{
-    padding: 20px;
-    border: 2px solid rgb(230, 28, 28);
+.search-page-container .search-div{
+    padding: 5px;
     border-radius: 6px;
     font-size: 26px;
     text-transform: capitalize;
-    outline: none;
+    display: flex;
+    justify-content: space-between;
 }
+
+.search-div input{
+    padding: 20px;
+    outline: none;
+    min-width: 90%;
+    background: transparent;
+
+}
+
+.search-div i{
+    flex-basis: 90px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 .search-page-container input::placeholder{
     font-size: 20px;
