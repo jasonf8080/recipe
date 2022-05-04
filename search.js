@@ -40,7 +40,7 @@ searchPageInput.addEventListener('keyup', async(e) => {
         //localStorage.removeItem('searchValue');
         const data = await fetchData();
         inputHeader.textContent = `Showing results for "${inputValue}"`;
-        document.body.style.background = 'green'
+      
         const newResults = getResults(data, inputValue);
         displayRecipe(newResults, searchItemsSection);
         
@@ -49,7 +49,7 @@ searchPageInput.addEventListener('keyup', async(e) => {
         selectRecipe(searchRecipes);
     } else {
         inputHeader.textContent = '';
-        searchItemsSection.innerHTML = null;
+        //searchItemsSection.innerHTML = null;
     }
 })
 
