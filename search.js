@@ -35,7 +35,7 @@ const load = async() => {
 
 
 searchPageInput.addEventListener('keyup', async(e) => {
-    let inputValue = e.target.value;
+    let inputValue = e.target.value.toLowerCase();
     
     if(inputValue){
         //localStorage.removeItem('searchValue');
