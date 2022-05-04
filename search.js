@@ -39,12 +39,11 @@ searchPageInput.addEventListener('keyup', async(e) => {
     if(inputValue){
         //localStorage.removeItem('searchValue');
         const data = await fetchData();
-        searchItemsSection.style.background = 'red'
-        document.body.style.background = 'blue'
         inputHeader.textContent = `Showing results for "${inputValue}"`;
+        document.body.style.background = 'green'
         const newResults = getResults(data, inputValue);
         displayRecipe(newResults, searchItemsSection);
-    
+        document.body.style.background = 'red'
 
         const searchRecipes = [...document.querySelectorAll('.recipe-item')];
         selectRecipe(searchRecipes);
@@ -52,9 +51,9 @@ searchPageInput.addEventListener('keyup', async(e) => {
         inputHeader.textContent = '';
         searchItemsSection.innerHTML = null;
     }
-
-    
 })
+
+
 
 
 //FUNCTIONS  
