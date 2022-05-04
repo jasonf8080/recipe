@@ -42,6 +42,7 @@ searchPageInput.addEventListener('keyup', async(e) => {
         inputHeader.textContent = `Showing results for "${inputValue}"`;
         const newResults = getResults(data, inputValue);
         displayRecipe(newResults, searchItemsSection);
+        searchItemsSection.style.background = 'red'
 
         const searchRecipes = [...document.querySelectorAll('.recipe-item')];
         selectRecipe(searchRecipes);
