@@ -49,7 +49,7 @@ searchPageInput.addEventListener('keyup', async(e) => {
         selectRecipe(searchRecipes);
     } else {
         inputHeader.textContent = '';
-        //searchItemsSection.innerHTML = null;
+        searchItemsSection.innerHTML = null;
     }
 })
 
